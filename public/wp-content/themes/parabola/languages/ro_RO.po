@@ -1,0 +1,2500 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Parabola v1.4.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-10-10 13:50+0100\n"
+"PO-Revision-Date: 2014-10-28 15:33+0200\n"
+"Last-Translator: Mihai <vdmpfa@gmail.com>\n"
+"Language-Team: Mihai <misuvn@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1?0:(((n%100>19)||((n%100==0)&&(n!=0)))?"
+"2:1));\n"
+"X-Generator: Poedit 1.6.10\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_x\n"
+"X-Poedit-Basepath: ../\n"
+"X-Textdomain-Support: yes\n"
+"Language: ro_RO\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:17
+msgid "Not Found"
+msgstr "Nu a fost găsit(ă)"
+
+#: 404.php:20
+msgid ""
+"Apologies, but the page you requested could not be found. Perhaps searching "
+"will help."
+msgstr ""
+"Ne cerem scuze, dar pagina pe care ați solicitat nu a putut fi găsită. Poate "
+"căutare va ajuta."
+
+#: archive.php:26
+#, php-format
+msgid "Daily Archives: %s"
+msgstr "Arhive zilnice: %s"
+
+#: archive.php:28
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr "Arhive lunare: %s"
+
+#: archive.php:30
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr "Arhive anuale: %s"
+
+#: archive.php:32
+msgid "Blog Archives"
+msgstr "Arhiva Blog"
+
+#: archive.php:56 author.php:71 category.php:49 content/content-index.php:35
+#: search.php:38 tag.php:50 templates/template-blog.php:34
+msgid "Nothing Found"
+msgstr "Nu sa găsit nimic"
+
+#: archive.php:60 author.php:75 category.php:53 content/content-index.php:39
+#: tag.php:54 templates/template-blog.php:38
+msgid ""
+"Apologies, but no results were found for the requested archive. Perhaps "
+"searching will help find a related post."
+msgstr ""
+"Ne cerem scuze, dar nu s-au găsit nici un rezultat pentru arhiva solicitată. "
+"Poate căutare vă va ajuta să găsiţi un rezultat relevant."
+
+#: attachment.php:18
+#, php-format
+msgid "Return to %s"
+msgstr "Înapoi la %s"
+
+#. translators: %s - title of parent post
+#: attachment.php:32
+#, php-format
+msgid "Full size is %s pixels"
+msgstr "Dimensiunea maximă este de %s pixeli"
+
+#: attachment.php:35
+msgid "Link to full-size image"
+msgstr "Link-ul către imaginea de dimensiuni maxime"
+
+#: attachment.php:75 content/content-page.php:22 includes/theme-loop.php:201
+#: single.php:49 templates/template-page-with-intro.php:16
+msgid "Edit"
+msgstr "Editează"
+
+#: attachment.php:86
+msgid "Continue reading"
+msgstr "Citiți mai departe"
+
+#: attachment.php:87 content/content-aside.php:33 content/content-chat.php:32
+#: content/content-gallery.php:53 content/content-image.php:27
+#: content/content-link.php:32 content/content-page.php:21
+#: content/content-quote.php:30 content/content-video.php:27
+#: content/content.php:44 content/content.php:60 single.php:27
+#: templates/template-page-with-intro.php:15
+msgid "Pages:"
+msgstr "Pagini:"
+
+#: author.php:29
+#, php-format
+msgid "Author Archives: %s"
+msgstr "Arhiva autorului: %s"
+
+#: author.php:46 single.php:36
+#, php-format
+msgid "About %s"
+msgstr "Despre %s"
+
+#: category.php:20
+#, php-format
+msgid "Category Archives: %s"
+msgstr "Arhiva categorie: %s"
+
+#: comments.php:25
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+"Acest articol este protejat prin parolă. Introduceți parola pentru a vedea "
+"orice comentarii."
+
+#: comments.php:50
+msgid "Comments are closed"
+msgstr "Comentariile nu sunt permise."
+
+#: search.php:18
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Rezultatele căutării pentru: %s"
+
+#: search.php:40
+#, php-format
+msgid "No search results for: %s."
+msgstr "Nu există rezultate căutare pentru: %s"
+
+#: searchform.php:1
+msgid "SEARCH"
+msgstr "CAUTĂ"
+
+#: admin/settings.php:1617 includes/theme-setup.php:209 sidebar-left.php:26
+msgid "Left Sidebar"
+msgstr "Bara laterală stângă"
+
+#: sidebar-left.php:29 sidebar-right.php:29
+#, php-format
+msgid ""
+"To hide this sidebar, switch to a different Layout via the <a href=\"%s"
+"\">Theme Settings</a>."
+msgstr ""
+"Pentru a ascunde acest bară laterală, comutați la un format diferit, prin "
+"intermediul <a href=\"%s\">Setări temă</a>."
+
+#: admin/settings.php:1621 includes/theme-setup.php:220 sidebar-right.php:26
+msgid "Right Sidebar"
+msgstr "Bara laterală dreapta"
+
+#: single.php:40
+msgid "View all posts by "
+msgstr "Vezi toate articolele de"
+
+#: tag.php:21
+#, php-format
+msgid "Tag Archives: %s"
+msgstr "Arhive cuvinte cheie: %s"
+
+#: admin/admin-functions.php:61
+msgid ""
+"Before you can upload your import file, you will need to fix the following "
+"error:"
+msgstr ""
+"Înainte de a putea încărca fișierul, va trebui să se corecteze următoarea "
+"eroare:"
+
+#: admin/admin-functions.php:69
+msgid "Import Parabola Theme Options"
+msgstr "Importați opțiunile Temei Parabola"
+
+#: admin/admin-functions.php:71
+msgid ""
+"Hi! This is where you import the  Parabola settings.<i> Please remember that "
+"this is still an experimental feature.</i>"
+msgstr ""
+"Salutare! Aceasta este locul de unde se importa setările Temei Parabol. "
+"<i>Vă rugăm să rețineți că aceasta este încă o funcție experimentală.</i>"
+
+#: admin/admin-functions.php:73
+msgid "Just choose a file from your computer:"
+msgstr "Alegeți un fișier din computer:"
+
+#: admin/admin-functions.php:75
+#, php-format
+msgid "Maximum size: %s"
+msgstr "Dimensiunea maximă: %s"
+
+#: admin/admin-functions.php:81
+msgid "And import!"
+msgstr "Și importați!"
+
+#: admin/admin-functions.php:147
+msgid "Import Parabola Theme Options "
+msgstr "Importați opțiunile Temei Parabola"
+
+#: admin/admin-functions.php:150
+msgid "Great! The options have been imported!"
+msgstr "Minunat! Opțiunile au fost importate!"
+
+#: admin/admin-functions.php:151
+msgid "Go back to the Parabola options page and check them out!"
+msgstr "Duceți-vă înapoi la pagina de opțiuni Parabola și verificați-le!"
+
+#: admin/admin-functions.php:154 admin/admin-functions.php:160
+#: admin/admin-functions.php:166
+msgid "Oops, there's a small problem."
+msgstr "Hopa, există o mică problemă."
+
+#: admin/admin-functions.php:155
+msgid ""
+"The uploaded file does not contain valid Parabola options. Make sure the "
+"file is exported from the Parabola Options page."
+msgstr ""
+"Fișierul încărcat nu conține opțiuni Parabola valide. Asigurați-vă că "
+"fișierul este exportat din pagina Opțiuni Parabola."
+
+#: admin/admin-functions.php:161
+msgid "The uploaded file could not be read."
+msgstr "Fișierul încărcat nu a putut fi citit."
+
+#: admin/admin-functions.php:167
+msgid ""
+"The uploaded file is not supported. Make sure the file was exported from the "
+"Parabola page and that it is a text file."
+msgstr ""
+"Fișierul încărcat nu este acceptat. Asigurați-vă că fișierul a fost exportat "
+"de la pagina Parabola și că acesta este un fișier text."
+
+#: admin/admin-functions.php:176
+msgid ""
+"Oops! The file is empty or there was no file. This error could also be "
+"caused by uploads being disabled in your php.ini or by post_max_size being "
+"defined as smaller than upload_max_filesize in php.ini."
+msgstr ""
+"Oops! Fișierul este gol sau nu a existat nici un fișier. Această eroare ar "
+"putea fi, de asemenea, cauzată de upload a fi dezactivat în php.ini sau "
+"post_max_size fiind definit ca mai mic decât upload_max_filesize în php.ini."
+
+#: admin/admin-functions.php:182
+msgid "ERROR: You are not authorised to perform that operation"
+msgstr "EROARE: Nu sunteți autorizat pentru a efectua această operațiune."
+
+#: admin/admin-functions.php:197
+msgid ""
+"Select one of the preset color schemes and press the Load button.<br> <b> "
+"CAUTION! </b> When loading a color scheme, the Parabola theme settings under "
+"Text and Color Settings will be overriden. All other settings will remain "
+"intact.<br> <u>SUGGESTION:</u> It's always better to export your current "
+"theme settings before loading a color scheme."
+msgstr ""
+"Selectați una dintre schemele de culori presetate și apăsați pe butonul "
+"Load. <br> <b> ATENȚIE! </b> Când încărcați o schemă de culori, setările "
+"temei Parabola deText și Setări culoare va fi suprascrise. Toate celelalte "
+"setări vor rămâne intacte <br> <u>SUGESTIE:</u> Este întotdeauna mai bine să "
+"exportați setările curente înainte de a încărca o schemă de culori."
+
+#: admin/admin-functions.php:221
+msgid "Load Color Scheme"
+msgstr "Încărcați Schema de culori"
+
+#: admin/main.php:114
+msgid "Layout Settings"
+msgstr "Setările de aspect"
+
+#: admin/main.php:115
+msgid "Header Settings"
+msgstr "Setările de antet"
+
+#: admin/main.php:116 admin/main.php:175
+msgid "Presentation Page"
+msgstr "Pagină de prezentare"
+
+#: admin/main.php:117
+msgid "Text Settings"
+msgstr "Setări text"
+
+#: admin/main.php:118
+msgid "Color Settings"
+msgstr "Setări culoare"
+
+#: admin/main.php:119
+msgid "Graphics Settings"
+msgstr "Setări grafică"
+
+#: admin/main.php:120
+msgid "Post Information Settings"
+msgstr "Setări informaţii articole"
+
+#: admin/main.php:121
+msgid "Post Excerpt Settings"
+msgstr "Setări rezumat articol"
+
+#: admin/main.php:122
+msgid "Featured Image Settings"
+msgstr "Setări privind imaginile promovate"
+
+#: admin/main.php:123
+msgid "Social Media Settings"
+msgstr "Setări Social Media"
+
+#: admin/main.php:124
+msgid "Miscellaneous Settings"
+msgstr "Setări diverse"
+
+#: admin/main.php:127
+msgid "Main Layout"
+msgstr "Aspect principal"
+
+#: admin/main.php:128
+msgid "Content / Sidebar Width"
+msgstr "Lățime Conținut / Bara laterală "
+
+#: admin/main.php:129
+msgid "Responsiveness"
+msgstr "Aspect pentru dispozitive mobile"
+
+#: admin/main.php:132
+msgid "Enable Presentation Page"
+msgstr "Activați pagina de prezentare"
+
+#: admin/main.php:133
+msgid "Show Posts on Presentation Page"
+msgstr "Afișează articolele pe Pagina de prezentare "
+
+#: admin/main.php:134
+msgid "Slider Settings"
+msgstr "Setări slider"
+
+#: admin/main.php:135
+msgid "Slides"
+msgstr "Slide-uri"
+
+#: admin/main.php:136
+msgid "Presentation Page Columns"
+msgstr "Coloane pe Pagina de prezentare"
+
+#: admin/main.php:137
+msgid "Extras"
+msgstr "Rezumat"
+
+#: admin/main.php:140
+msgid "Header Height"
+msgstr "Înălțime antet"
+
+#: admin/main.php:141
+msgid "Header Image"
+msgstr "Imagine antet"
+
+#: admin/main.php:142
+msgid "Site Header"
+msgstr "Antet site"
+
+#: admin/main.php:143
+msgid "Custom Logo Upload"
+msgstr "Încărcați Logo Personalizat"
+
+#: admin/main.php:144
+msgid "Header Content Spacing"
+msgstr "Spațiere conținut antet"
+
+#: admin/main.php:145
+msgid "FavIcon Upload"
+msgstr "Încărcați Favicon"
+
+#: admin/main.php:149 admin/settings.php:648 admin/settings.php:667
+#: admin/settings.php:685 admin/settings.php:703 admin/settings.php:724
+msgid "General Font"
+msgstr "Font-uri generice"
+
+#: admin/main.php:150
+msgid "Post Title Font "
+msgstr "Font titlu articol"
+
+#: admin/main.php:151
+msgid "Widget Title Font"
+msgstr "Font titlu Widget"
+
+#: admin/main.php:152
+msgid "Site Title Font"
+msgstr "Font titlu site"
+
+#: admin/main.php:153
+msgid "Main Menu Font"
+msgstr "Font-ul meniului principal"
+
+#: admin/main.php:154
+msgid "Headings Font"
+msgstr "Font titluri"
+
+#: admin/main.php:155
+msgid "Force Text Align"
+msgstr "Forțați alinierea textului"
+
+#: admin/main.php:156
+msgid "Paragraph spacing"
+msgstr "Spațierea paragrafului"
+
+#: admin/main.php:157
+msgid "Paragraph Indent"
+msgstr "Indentarea paragrafului"
+
+#: admin/main.php:158
+msgid "Headings Indent"
+msgstr "Indentarea titlurilor"
+
+#: admin/main.php:159
+msgid "Line Height"
+msgstr "Înălțimea liniei"
+
+#: admin/main.php:160
+msgid "Word Spacing"
+msgstr "Spațierea cuvintelor"
+
+#: admin/main.php:161
+msgid "Letter Spacing"
+msgstr "Spațierea literelor"
+
+#: admin/main.php:162
+msgid "Uppercase Text"
+msgstr "Text cu majuscule"
+
+#: admin/main.php:166
+msgid "Background Image"
+msgstr "Imagine de fundal"
+
+#: admin/main.php:167
+msgid "General"
+msgstr "Generic"
+
+#: admin/main.php:168
+msgid "Accents"
+msgstr "Accente"
+
+#: admin/main.php:169 admin/settings.php:890
+msgid "Site Title"
+msgstr "Titlu site"
+
+#: admin/main.php:171
+msgid "Main Menu"
+msgstr "Meniul principal"
+
+#: admin/main.php:172
+msgid "Top Menu"
+msgstr "Meniul de sus"
+
+#: admin/main.php:174
+msgid "Content"
+msgstr "Conținut"
+
+#: admin/main.php:176
+msgid "Sidebar Widgets"
+msgstr "Widget-uri pe bara laterală"
+
+#: admin/main.php:177
+msgid "Footer Widgets"
+msgstr "Widget-uri la subsolul paginii"
+
+#: admin/main.php:178
+msgid "Links"
+msgstr "Link-uri"
+
+#: admin/main.php:180
+msgid "Caption Border"
+msgstr "Chenar legendă"
+
+#: admin/main.php:181
+msgid "Meta Area Background"
+msgstr "Zona de fundal etichete Meta"
+
+#: admin/main.php:185
+msgid "Breadcrumbs"
+msgstr "Link-uri ajutătoare"
+
+#: admin/main.php:186
+msgid "Pagination"
+msgstr "Paginare"
+
+#: admin/main.php:187
+msgid "Menu Alignment"
+msgstr "Aliniere meniu"
+
+#: admin/main.php:188
+msgid "Triangle Accents"
+msgstr "Accente"
+
+#: admin/main.php:189
+msgid "Post Images Border"
+msgstr "Chenar imagini articol"
+
+#: admin/main.php:190
+msgid "Content List Bullets"
+msgstr "Marcatorii listei conținutului"
+
+#: admin/main.php:191
+msgid "Page Titles"
+msgstr "Titlul paginii"
+
+#: admin/main.php:192
+msgid "Category Titles"
+msgstr "Titluri categorii"
+
+#: admin/main.php:193
+msgid "Hide Tables"
+msgstr "Ascunde tabelele"
+
+#: admin/main.php:194
+msgid "Back to Top button"
+msgstr "Buton Înapoi sus"
+
+#: admin/main.php:195
+msgid "Text Under Comments"
+msgstr "Comentarii sub text"
+
+#: admin/main.php:196
+msgid "Comments are closed text"
+msgstr "Textul pentru Comentariile nu sunt permise"
+
+#: admin/main.php:197
+msgid "Comments off"
+msgstr "Comentarii oprite"
+
+#: admin/main.php:201
+msgid "Post Comments Link"
+msgstr "Link comentarii articole"
+
+#: admin/main.php:202
+msgid "Post Date/Time"
+msgstr "Dată/Oră articol"
+
+#: admin/main.php:203
+msgid "Post Author"
+msgstr "Autorul articolului"
+
+#: admin/main.php:204
+msgid "Post Category"
+msgstr "Categoria articolului"
+
+#: admin/main.php:200
+msgid "Meta Bar"
+msgstr "Bara Meta"
+
+#: admin/main.php:205
+msgid "Post Tags"
+msgstr "Cuvinte cheie articol"
+
+#: admin/main.php:206
+msgid "Post Permalink"
+msgstr "Legături permanente la articol"
+
+#: admin/main.php:209 includes/theme-functions.php:228
+msgid "Home Page"
+msgstr "Pagina de pornire"
+
+#: admin/main.php:210 admin/settings.php:334
+msgid "Sticky Posts"
+msgstr "Articole promovate"
+
+#: admin/main.php:211
+msgid "Archive and Category Pages"
+msgstr "Pagini Arhivă și Categorie"
+
+#: admin/main.php:212
+msgid "Number of Words for Post Excerpts "
+msgstr "Numărul de cuvinte din rezumate articole"
+
+#: admin/main.php:213
+msgid "Magazine Layout"
+msgstr "Aspect Revista"
+
+#: admin/main.php:214
+msgid "Excerpt suffix"
+msgstr "Sufix rezumat"
+
+#: admin/main.php:215
+msgid "Continue reading link text "
+msgstr "Textul linkului Citește mai mult"
+
+#: admin/main.php:216
+msgid "HTML tags in Excerpts"
+msgstr "Tag-uri HTML în Rezumat"
+
+#: admin/main.php:219
+msgid "Featured Images as POST Thumbnails "
+msgstr "Imagini evidențiate ca pictograme articol"
+
+#: admin/main.php:220
+msgid "Auto Select Images From Posts "
+msgstr "Auto selectează imagini din articole"
+
+#: admin/main.php:221
+msgid "Thumbnails Alignment "
+msgstr "Alinierea pictogramelor"
+
+#: admin/main.php:222
+msgid "Thumbnails Size "
+msgstr "Dimensiune pictograme"
+
+#: admin/main.php:223
+msgid "Featured Images as HEADER Images "
+msgstr "Imaginile promovate ca imagini antet"
+
+#: admin/main.php:226
+msgid "Link nr. 1"
+msgstr "Link nr. 1"
+
+#: admin/main.php:227
+msgid "Link nr. 2"
+msgstr "Link nr. 2"
+
+#: admin/main.php:228
+msgid "Link nr. 3"
+msgstr "Link nr. 3"
+
+#: admin/main.php:229
+msgid "Link nr. 4"
+msgstr "Link nr. 4"
+
+#: admin/main.php:230
+msgid "Link nr. 5"
+msgstr "Link nr. 5"
+
+#: admin/main.php:231
+msgid "Socials display"
+msgstr "Afișaj reţele socializare"
+
+#: admin/main.php:234
+msgid "Internet Explorer Compatibility Tag"
+msgstr "Marcaj compatibilitate Internet Explorer "
+
+#: admin/main.php:235
+msgid "Custom Footer Text"
+msgstr "Text personalizat subsol pagină"
+
+#: admin/main.php:236
+msgid "Custom CSS"
+msgstr "CSS personalizat"
+
+#: admin/main.php:237
+msgid "Custom JavaScript"
+msgstr "Javascript personalizat"
+
+#: admin/main.php:263
+msgid "Sorry, but you do not have sufficient permissions to access this page."
+msgstr ""
+"Ne pare rău, dar nu aveți permisiuni suficiente pentru a accesa această "
+"pagină."
+
+#: admin/main.php:282
+msgid "Parabola settings updated successfully."
+msgstr "Setările Parabola actualizate cu succes."
+
+#: admin/main.php:297
+msgid "Save Changes"
+msgstr "Salvați modificările"
+
+#: admin/main.php:298
+msgid "Reset to Defaults"
+msgstr "Resetați la valorile prestabilite"
+
+#: admin/main.php:329
+msgid "Import/Export Settings"
+msgstr "Setări Import/Export"
+
+#: admin/main.php:335
+msgid "Export Theme options"
+msgstr "Opțiuni de export Temă"
+
+#: admin/main.php:336
+msgid ""
+"It's that easy: a mouse click away - the ability to export your Parabola "
+"settings and save them on your computer. Feeling safer? You should!"
+msgstr ""
+"Este foarte simplu: faceți clic cu mouse-ul - aveti posibilitatea de a "
+"exporta setările Parabola și să le salvați pe computer. Vă simțiți mai în "
+"siguranță? Ar trebui!"
+
+#: admin/main.php:341
+msgid "Import Theme options"
+msgstr "Opțiuni de Import temă"
+
+#: admin/main.php:342
+msgid ""
+"Without the import, the export would just be a fool's exercise. Make sure "
+"you have the exported file ready and see you after the mouse click."
+msgstr ""
+"Fără import, exportul ar fi doar un exercițiu de prostie. Asigurați-vă că "
+"aveți fișierul exportat pregătit și ne vedem după ce faceți clic cu mouse-ul."
+
+#: admin/main.php:347
+msgid "Color Schemes"
+msgstr "Scheme de culori"
+
+#: admin/main.php:348
+msgid ""
+"A collection of preset color schemes to use as the starting point for your "
+"site. Just load one up and see your blog in a different light."
+msgstr ""
+"O colectie de scheme de culori presetate de utilizat ca punct de plecare "
+"pentru site-ul dvs.. Doar folosiți una și veți vedea blog-ul dvs. într-o "
+"lumină diferită."
+
+#: admin/main.php:356
+msgid "Parabola Latest News"
+msgstr "Parabola: Ultimele știri"
+
+#: admin/main.php:367
+msgid "No news items."
+msgstr "Nu sunt articole."
+
+#: admin/main.php:371
+msgid "Posted on"
+msgstr "Postat pe"
+
+#: admin/main.php:385
+msgid "Reset Parabola Settings to Defaults?"
+msgstr "Resetați Parabola la setãrile predefinite?"
+
+#: admin/settings.php:73
+msgid "One column (no sidebars)"
+msgstr "O coloană (fără bare laterale)"
+
+#: admin/settings.php:74
+msgid "Two columns, sidebar on the right"
+msgstr "Două coloane, bara laterală pe dreapta"
+
+#: admin/settings.php:75
+msgid "Two columns, sidebar on the left"
+msgstr "Două coloane, bara laterală pe stânga"
+
+#: admin/settings.php:76
+msgid "Three columns, sidebars on the right"
+msgstr "Trei coloane, bare laterale de pe partea dreaptă"
+
+#: admin/settings.php:77
+msgid "Three columns, sidebars on the left"
+msgstr "Trei coloane, bare laterale de pe partea stângă"
+
+#: admin/settings.php:78
+msgid "Three columns, one sidebar on each side"
+msgstr "Trei coloane, o bară laterală pe fiecare parte"
+
+#: admin/settings.php:86
+msgid ""
+"Choose your layout. Possible options are: <br> No sidebar, a single sidebar "
+"on either left of right, two sidebars on either left or right and two "
+"sidebars on each side.<br>This can be overriden in pages by using Page "
+"Templates."
+msgstr ""
+"Alegeți aspectul. Opțiunile posibile sunt:. <br> Nici o bară laterală, o "
+"singură bară laterală pe stânga sau dreapta, două bare laterale pe stânga "
+"sau dreapta și două bare laterale pe fiecare parte <br> Acest lucru poate fi "
+"modificat în pagini cu ajutorul paginilori Predefinite."
+
+#: admin/settings.php:135
+msgid "Content ="
+msgstr "Conținut = "
+
+#: admin/settings.php:136
+msgid "Sidebar(s) ="
+msgstr "Bara(e) laterală(e) ="
+
+#: admin/settings.php:137
+msgid "Total width ="
+msgstr "Lățime totală ="
+
+#: admin/settings.php:144
+msgid ""
+"Select the width of your <b>content</b> and <b>sidebar(s)</b>. When using a "
+"3 columns layout (with 2 sidebars) they will each have half the configured "
+"width."
+msgstr ""
+"Selectați lățimea <b>conținutului</b> și <b> Bării(lor) laterale </b>. Când "
+"se folosește un format cu 3 coloane (cu 2 bare laterale) vor avea fiecare "
+"jumătate din lățimea configurată."
+
+#: admin/settings.php:153 admin/settings.php:175 admin/settings.php:189
+#: admin/settings.php:763 admin/settings.php:1018 admin/settings.php:1033
+#: admin/settings.php:1061 admin/settings.php:1138 admin/settings.php:1200
+#: admin/settings.php:1384 admin/settings.php:1413 admin/settings.php:1436
+#: admin/settings.php:1456 admin/settings.php:1506 admin/settings.php:1656
+msgid "Enable"
+msgstr "Activați"
+
+#: admin/settings.php:153 admin/settings.php:175 admin/settings.php:189
+#: admin/settings.php:763 admin/settings.php:1018 admin/settings.php:1033
+#: admin/settings.php:1061 admin/settings.php:1138 admin/settings.php:1200
+#: admin/settings.php:1384 admin/settings.php:1413 admin/settings.php:1436
+#: admin/settings.php:1456 admin/settings.php:1506 admin/settings.php:1656
+msgid "Disable"
+msgstr "Dezactivați"
+
+#: admin/settings.php:163
+msgid ""
+"Enable to make Parabola fully responsive. The layout and general sizes of "
+"your blog will adjust depending on what device and what resolution it is "
+"viewed in.<br> Do not disable unless you have a good reason to."
+msgstr ""
+"Activați pentru a face Parabola pe deplin compatibilă cu dispozitivele "
+"mobile. Aspectul și dimensiunile generale ale blog-ul dvs. se vor ajusta în "
+"funcție de dispozitiv și ce rezoluție. <br> Nu dezactivați dacă nu aveți un "
+"motiv bun pentru aceasta."
+
+#: admin/settings.php:183
+msgid ""
+"Enable the presentation front-page. This will become your new home page. "
+"<br> If you want another page to hold your latest blog posts, choose 'Blog "
+"Template (Posts Page)' from Page Templates while creating or editing that "
+"page."
+msgstr ""
+"Activați prima pagină să fie de prezentare. Aceasta va deveni noua pagina de "
+"start. <br> Dacă doriți o altă pagină să aibă cele mai recente mesajele ale "
+"dumneavoastră, alegeți \"Blog Template (Pagină cu mesaje)\" din Șabloane de "
+"pagină în timp ce creați sau modificați acea pagină."
+
+#: admin/settings.php:219
+msgid "Slider Dimensions:"
+msgstr "Dimensiuni Slider:"
+
+#: admin/settings.php:220
+msgid "width"
+msgstr "lățime"
+
+#: admin/settings.php:221
+msgid "height"
+msgstr "înălțime"
+
+#: admin/settings.php:222
+msgid ""
+"The dimensions of your slider. Make sure your images are of the same size."
+msgstr ""
+"Dimensiunile slider-ului. Asigurați-vă că imaginile sunt de aceeași mărime."
+
+#: admin/settings.php:224
+msgid "Animation:"
+msgstr "Animație:"
+
+#: admin/settings.php:226
+msgid "Random"
+msgstr "Aleator"
+
+#: admin/settings.php:226
+msgid "Fold"
+msgstr "Rabatați"
+
+#: admin/settings.php:226
+msgid "Fade"
+msgstr "Estompare"
+
+#: admin/settings.php:226
+msgid "SlideInRight"
+msgstr "GlisațiLaDreapta"
+
+#: admin/settings.php:226
+msgid "SlideInLeft"
+msgstr "GlisațiLaStânga"
+
+#: admin/settings.php:226
+msgid "SliceDown"
+msgstr "TăiaţiJos"
+
+#: admin/settings.php:226
+msgid "SliceDownLeft"
+msgstr "TăiaţiJosStânga"
+
+#: admin/settings.php:226
+msgid "SliceUp"
+msgstr "TăiaţiSus"
+
+#: admin/settings.php:226
+msgid "SliceUpLeft"
+msgstr "TăiaţiSusStânga"
+
+#: admin/settings.php:226
+msgid "SliceUpDown"
+msgstr "TăiaţiSusJos"
+
+#: admin/settings.php:226
+msgid "SliceUpDownLeft"
+msgstr "TăiaţiSusJosStânga"
+
+#: admin/settings.php:226
+msgid "BoxRandom"
+msgstr "CasetăAleatoare"
+
+#: admin/settings.php:226
+msgid "BoxRain"
+msgstr "EfectPloaie"
+
+#: admin/settings.php:226
+msgid "BoxRainReverse"
+msgstr "EfectPloaieInversat"
+
+#: admin/settings.php:226
+msgid "BoxRainGrow"
+msgstr "EfectPloaieCrescând"
+
+#: admin/settings.php:226
+msgid "BoxRainGrowReverse"
+msgstr "EfectPloaieCrescândInversat"
+
+#: admin/settings.php:235
+msgid "The transition effect of your slides."
+msgstr "Efectul de tranzitie din slide-uri."
+
+#: admin/settings.php:237
+msgid "Animation Time:"
+msgstr "Timp de animație:"
+
+#: admin/settings.php:238 admin/settings.php:242
+msgid "milliseconds"
+msgstr "milisecunde"
+
+#: admin/settings.php:239
+msgid "The time in which the transition animation will take place."
+msgstr "Timpul în care animația de tranziție va avea loc."
+
+#: admin/settings.php:241
+msgid "Pause Time:"
+msgstr "Timp pauză:"
+
+#: admin/settings.php:243
+msgid "The time in which a slide will be still and visible."
+msgstr "Timpul în care un diapozitiv va rămâne nemișcat și vizibil."
+
+#: admin/settings.php:245
+msgid "Slider navigation:"
+msgstr "Navigare Slider:"
+
+#: admin/settings.php:247
+msgid "Numbers"
+msgstr "Numere"
+
+#: admin/settings.php:247
+msgid "Bullets"
+msgstr "Marcatori"
+
+#: admin/settings.php:247
+msgid "None"
+msgstr "Nici unul"
+
+#: admin/settings.php:255
+msgid "Your slider navigation type. Shown under the slider."
+msgstr "Tip navigare slider. Apare pe site sub slider."
+
+#: admin/settings.php:257
+msgid "Slider arrows:"
+msgstr "Săgeți Slider:"
+
+#: admin/settings.php:259
+msgid "Always Visible"
+msgstr "Întotdeauna vizibil"
+
+#: admin/settings.php:259
+msgid "Visible on Hover"
+msgstr "Vizibil la deplasarea cursorul"
+
+#: admin/settings.php:259
+msgid "Hidden"
+msgstr "Ascuns"
+
+#: admin/settings.php:267
+msgid "The Left and Right arrows on your slider"
+msgstr "Săgețile stânga și dreapta ale slider-ului"
+
+#: admin/settings.php:334
+msgid "Custom Slides"
+msgstr "Slide-uri personalizate"
+
+#: admin/settings.php:334
+msgid "Latest Posts"
+msgstr "Ultimele articole"
+
+#: admin/settings.php:334
+msgid "Random Posts"
+msgstr "Articole aleatorii"
+
+#: admin/settings.php:334
+msgid "Latest Posts from Category"
+msgstr "Ultimele articole din Categoria"
+
+#: admin/settings.php:334
+msgid "Random Posts from Category"
+msgstr "Articole aleatoare din Categoria"
+
+#: admin/settings.php:334
+msgid "Specific Posts"
+msgstr "Articole specifice"
+
+#: admin/settings.php:343
+msgid ""
+"Only the slides with a defined image will become active and visible in the "
+"live slider.<br>When using slides from posts, make sure the selected posts "
+"have featured images.<br>Read the FAQs for more info."
+msgstr ""
+"Doar slide-uri cu o imagine definită vor deveni active și vizibile în "
+"slider. <br> Atunci când se utilizează slide-uri din articole, asigurați-vă "
+"că articolele selectate au incluse imagini. <br> Citește Întrebări frecvente "
+"pentru mai multe informații."
+
+#: admin/settings.php:348
+msgid "Latest posts will be loaded into the slider."
+msgstr "Ultimele articole vor fi arătate în slider."
+
+#: admin/settings.php:352
+msgid "Random posts will be loaded into the slider."
+msgstr "Articole aleatorii vor fi arătate în slider."
+
+#: admin/settings.php:356
+msgid "Latest posts from the category you choose will be loaded in the slider."
+msgstr "Ultimele articole din categoria selectată vor fi arătate în slider."
+
+#: admin/settings.php:360
+msgid ""
+"Random posts from the category you choose will be loaded into the slider."
+msgstr "Articole aleatorii din categoria selectată vor fi arătate în slider."
+
+#: admin/settings.php:364
+msgid "Only sticky posts will be loaded into the slider."
+msgstr "Doar articolele promovate vor fi arătate în slider."
+
+#: admin/settings.php:368
+msgid "List the post IDs you want to display (separated by a comma): "
+msgstr ""
+"Enumeraţi ID-urile articolelor care vor fi afișate (separate prin virgulă):"
+
+#: admin/settings.php:373
+msgid "<br> Choose the category: "
+msgstr "<br> Alege categoria:"
+
+#: admin/settings.php:375
+msgid "Select Category"
+msgstr "Selectează categoria"
+
+#: admin/settings.php:389
+msgid "Number of posts to show:"
+msgstr "Numărul de articole de afișare:"
+
+#: admin/settings.php:400
+msgid "Slide"
+msgstr "Slide"
+
+#: admin/settings.php:402 admin/settings.php:454 content/content-image.php:18
+msgid "Image"
+msgstr "Imagine"
+
+#: admin/settings.php:405 admin/settings.php:457 admin/settings.php:568
+#: admin/settings.php:591
+msgid "Select / Upload Image"
+msgstr "Selectați / Încărcați imagine"
+
+#: admin/settings.php:406 admin/settings.php:458
+msgid "Title"
+msgstr "Titlul"
+
+#: admin/settings.php:409 admin/settings.php:461
+msgid "Text"
+msgstr "Texte"
+
+#: admin/settings.php:412 admin/settings.php:464 content/content-link.php:19
+msgid "Link"
+msgstr "Link"
+
+#: admin/settings.php:428
+msgid "Number of columns:"
+msgstr "Numărul de coloane:"
+
+#: admin/settings.php:438
+msgid "Image Size:"
+msgstr "Dimensiune imagine:"
+
+#: admin/settings.php:439
+msgid "Height: "
+msgstr "Înălțime: "
+
+#: admin/settings.php:440
+msgid "Width: "
+msgstr "Lățime: "
+
+#: admin/settings.php:441
+msgid ""
+"The sizes for your column images. The width is dependent on total site width "
+"and not configurable."
+msgstr ""
+"Dimensiunile pentru imaginile coloanelor. Lățimea este dependentă de lățimea "
+"totală a site-ului și nu este configurabilă."
+
+#: admin/settings.php:443
+msgid "Read more text:"
+msgstr "Citește mai mult:"
+
+#: admin/settings.php:446
+msgid ""
+"The linked text that appears at the bottom of each column. Leave empty to "
+"hide the link."
+msgstr ""
+"Textul de legătură care apare în partea de jos a fiecărei coloane. Lăsați "
+"gol pentru a ascunde link-ul."
+
+#: admin/settings.php:452
+msgid "Column"
+msgstr "Coloană"
+
+#: admin/settings.php:477
+msgid "Extra Text"
+msgstr "Text Extra"
+
+#: admin/settings.php:479
+msgid "Text for the Presentation Page"
+msgstr "Textul pentru Pagina de prezentare"
+
+#: admin/settings.php:481
+msgid ""
+"More text for your front page. The top title is above the slider, the second "
+"title between the slider and the columns and 2 more rows of text under the "
+"columns.<br>It's all optional so leave any input field empty to not dispaly "
+"it."
+msgstr ""
+"Mai mult de text pentru pagina dvs. de prezentare. Titlul este deasupra "
+"slider-ului, al doilea titlu între slider și coloanele și mai sunt 2rânduri "
+"de text sub coloane. <br>Totul e opțional așa că lăsați orice câmp gol a nu-"
+"l fi afișat."
+
+#: admin/settings.php:483
+msgid "Top Title"
+msgstr "Titlul de sus"
+
+#: admin/settings.php:485
+msgid "Second Title"
+msgstr "Al doilea titlu"
+
+#: admin/settings.php:488
+msgid "Bottom Text 1"
+msgstr "Text de jos 1"
+
+#: admin/settings.php:490
+msgid "Bottom Text 2"
+msgstr "Text de jos 2"
+
+#: admin/settings.php:493
+msgid "Hide areas"
+msgstr "Ascunde zone"
+
+#: admin/settings.php:495
+msgid "Choose the areas to hide on the first page."
+msgstr "Alegeți zonele de ascuns pe prima pagină."
+
+#: admin/settings.php:506
+msgid "Hide the header area (logo/title and/or image/empty area)."
+msgstr "Ascunde zona de antet (logo/titlu și/sau imagine/zonele goale)."
+
+#: admin/settings.php:509
+msgid "Hide the main menu and the top menu."
+msgstr "Ascunde meniul principal și meniul de sus."
+
+#: admin/settings.php:512
+msgid "Hide the footer widgets. "
+msgstr "Ascunde widget-uri din subsol."
+
+#: admin/settings.php:515
+msgid "Hide the footer (copyright area)."
+msgstr "Ascunde subsolul (zona drepturilor de autor)."
+
+#: admin/settings.php:529
+msgid ""
+"Select the header's height. After saving the settings go and upload your new "
+"header image. The header's width will be "
+msgstr ""
+"Selectați înălțime antetul lui. După salvarea setărilor mergeți și încărcați "
+"noul dvs. imagine antet. Lățimea Antetul va fi "
+
+#: admin/settings.php:535
+msgid "Define header image"
+msgstr "Definiți imagine antet"
+
+#: admin/settings.php:538
+msgid "Center the header image horizontally"
+msgstr "Centraţi imaginea din antet orizontal"
+
+#: admin/settings.php:541
+msgid "Keep header image aspect ratio."
+msgstr "Păstrați raportul laturilor din imaginea din antet."
+
+#: admin/settings.php:542
+msgid ""
+"By default the header has a minimum height set. This option removes that and "
+"the header becomes fully responsive, scalling to any size.<br> Only enable "
+"this if you're <b>not</b> using a logo or site title and description in the "
+"header. "
+msgstr ""
+"În mod implicit antetul are o înălțime minimă. Această opțiune nu permite ca "
+"și antetul să devină deplin compatibil cu dispozitivele mobile, modificându-"
+"se la orice dimensiune. <br> Permite acest lucru numai dacă <b>nu</b> "
+"folosiți un logo sau titlu site și o descriere în antet."
+
+#: admin/settings.php:549
+msgid "Site Title and Description"
+msgstr "Titlul și descrierea site-ului"
+
+#: admin/settings.php:549
+msgid "Custom Logo"
+msgstr "Logo personalizat"
+
+#: admin/settings.php:549
+msgid "Clickable header image"
+msgstr "Pe imaginea din se poate face click"
+
+#: admin/settings.php:549
+msgid "Empty"
+msgstr "Gol"
+
+#: admin/settings.php:557
+msgid "Choose what to display inside your header area."
+msgstr "Alege ce să se afișeze în zona de antet."
+
+#: admin/settings.php:567
+msgid ""
+"Custom Logo upload. The logo will appear over the header image if you have "
+"used one."
+msgstr ""
+"Încărcați logo-ul personalizat. Acest logo va apărea deasupra antetul "
+"imaginii dacă ați setat una."
+
+#: admin/settings.php:576
+msgid "top"
+msgstr "sus"
+
+#: admin/settings.php:577
+msgid "left"
+msgstr "stânga"
+
+#: admin/settings.php:580
+msgid ""
+"Select the top and left spacing for the header content. Use it to better "
+"position your site title and description or custom logo inside the header. "
+msgstr ""
+"Selectați distanța de sus și din stânga pentru conținutul antetului. "
+"Folosiți pentru a poziționa mai bine titlul site-ul dvs. și descrierea sau "
+"logo-ul personalizat in antet."
+
+#: admin/settings.php:590
+msgid ""
+"Limitations: It has to be an image. It should be max 64x64 pixels in "
+"dimensions. Recommended file extensions .ico and .png. <br> <strong>Note "
+"that some browsers do not display the changed favicon instantly.</strong>"
+msgstr ""
+"Limitări: Trebuie să fie o imagine. Ar trebui să fie maxim 64x64 pixeli în "
+"dimensiuni. Extensii de fișiere recomandate ICO și PNG. <br> "
+"<strong>Rețineți că unele browsere nu afișează schimbarea favicon "
+"instantaneu. </strong>"
+
+#: admin/settings.php:61
+msgid "or Google font"
+msgstr "sau font Google"
+
+#: admin/settings.php:631
+msgid ""
+"Select the general font family and size or insert the Google Font name "
+"you'll use in your blog. This will affect all text except the one controlled "
+"by the options below. "
+msgstr ""
+"Selectați familia de fonturi generală și dimensiunea sau introduceți numele "
+"de Font Google pe care îl veți folosi în blog-ul dvs.. Acest lucru va afecta "
+"tot textul cu excepția celui controlat de opțiunile de mai jos."
+
+#: admin/settings.php:650
+msgid ""
+"Select the font family and size or insert the Google Font name you want for "
+"your titles. It will affect post titles and page titles. Leave 'General "
+"Font' and the general font values you selected will be used."
+msgstr ""
+"Selectați familia și dimensiunea fontului sau introduceți numele de Font "
+"Google pe care îl veți folosi pentru titluri. Aceasta va afecta titluri "
+"articolelor și titlurile paginilor. Lăsați 'Fonturi generice' și valorile "
+"generice selectate vor fi utilizate."
+
+#: admin/settings.php:669
+msgid ""
+"Select the font family and size or insert the Google Font name you want your "
+"widget titles to have. Leave 'General Font' and the general font values you "
+"selected will be used."
+msgstr ""
+"Selectați familia și dimensiunea fontului sau introduceți numele de Google "
+"Font care doriți titlurile widget să aibă.Lăsați 'Fonturi generice' și "
+"valorile generice selectate vor fi utilizate."
+
+#: admin/settings.php:687
+msgid ""
+"Select the font family and size or insert the Google Font name you want your "
+"site title and tagline to use. Leave 'General Font' and the general font "
+"values you selected will be used."
+msgstr ""
+"Selectați familia și dimensiunea fontului sau introduceți numele de Font "
+"Google pe care doriți ca titlul site-ului si motto-ul să le utilizeze. "
+"Lăsați 'Font-uri generice' și valorile generice selectate vor fi utilizate."
+
+#: admin/settings.php:705
+msgid ""
+"Select the font family and size or insert the Google Font name you want your "
+"main menu to use. Leave 'General Font' and the general font values you "
+"selected will be used."
+msgstr ""
+"Selectați familia și dimensiunea fontului sau introduceți numele de Font "
+"Google pe care doriți ca meniul să le utilizeze. Lăsați 'Font-uri generice' "
+"și valorile generice selectate vor fi utilizate."
+
+#: admin/settings.php:726
+msgid ""
+"Select the font family and size or insert the Google Font name you want your "
+"headings to have (h1 - h6 tags will be affected). Leave 'General Font' and "
+"the general font values you selected will be used."
+msgstr ""
+"Selectați familia și dimensiunea fontului sau introduceți numele de Font "
+"Google pe care doriți ca titlurile din articole să le utilizeze (tag-urile "
+"h1 - h6 vor fi afectate). Lăsați 'Font-uri generice' și valorile generice "
+"selectate vor fi utilizate."
+
+#: admin/settings.php:733 admin/settings.php:793 admin/settings.php:808
+msgid "Default"
+msgstr "Implicit(ă)"
+
+#: admin/settings.php:733 admin/settings.php:1047 admin/settings.php:1472
+msgid "Left"
+msgstr "Stânga"
+
+#: admin/settings.php:733 admin/settings.php:1047 admin/settings.php:1472
+msgid "Right"
+msgstr "Dreapta"
+
+#: admin/settings.php:733
+msgid "Justify"
+msgstr "Aliniere stânga - dreapta"
+
+#: admin/settings.php:733 admin/settings.php:1047 admin/settings.php:1472
+msgid "Center"
+msgstr "Centré"
+
+#: admin/settings.php:741
+msgid ""
+"This overwrites the text alignment in posts and pages. Leave 'Default' for "
+"normal settings (alignment will remain as declared in posts, comments etc.)."
+msgstr ""
+"Aceasta suprascrie alinierea textului în articole și pagini. Lăsați "
+"\"implicit\" pentru setările normale (aliniere va rămâne așa cum a declarat "
+"în articole, comentarii, etc)."
+
+#: admin/settings.php:755
+msgid "Choose the indent for your paragraphs."
+msgstr "Alegeți indentarea alineatelor."
+
+#: admin/settings.php:771
+msgid "Disable the default headings indent (left margin)."
+msgstr ""
+"Dezactivați indentarea implicită a titlurilor (marginea din stânga a tag-"
+"urilor <h>)."
+
+#: admin/settings.php:786
+msgid "Text line height. The height between 2 rows of text."
+msgstr "Distanța dintre două rânduri de text."
+
+#: admin/settings.php:801
+msgid ""
+"The space between <i>words</i>. Leave 'Default' for normal settings (size "
+"value will be as set in the CSS)."
+msgstr ""
+"Spatiul dintre <i>cuvinte</i>. Lasă 'Standard' pentru setările normale "
+"(valoare va fi, astfel cum este în CSS)."
+
+#: admin/settings.php:816
+msgid ""
+"The space between <i>letters</i>. Leave 'Default' for normal settings (size "
+"value will be as set in the CSS)."
+msgstr ""
+"Spațiul dintre <i>litere</i>. Lăsați 'Standard' pentru setările normale "
+"(valoarea va fi astfel cum prevede CSS)."
+
+#: admin/settings.php:833
+msgid "Select the spacing between the paragraphs."
+msgstr "Selectați distanța dintre paragrafe."
+
+#: admin/settings.php:840
+msgid "Default (enabled)"
+msgstr "Standard (activat)"
+
+#: admin/settings.php:840
+msgid "Disable everywhere"
+msgstr "Dezactivați peste tot"
+
+#: admin/settings.php:848
+msgid ""
+"Disable the built-in theme uppercase text styling. Note that some bult-in "
+"fonts only support upercase text and these will not be affected."
+msgstr ""
+"Dezactivați stilul incorporat de text cu litere mari. Rețineți că unele "
+"fonturi incorporate au doar litere mari si acestea nu vor fi afectate."
+
+#: admin/settings.php:856
+msgid "Define background image"
+msgstr "Definiți imaginea de fundal"
+
+#: admin/settings.php:861 admin/settings.php:887 admin/settings.php:897
+#: admin/settings.php:912 admin/settings.php:944 admin/settings.php:956
+msgid "Background:"
+msgstr "Fundal:"
+
+#: admin/settings.php:862
+msgid "Header Background"
+msgstr "Fundal antet"
+
+#: admin/settings.php:863
+msgid "Main Site Background"
+msgstr "Fundal site"
+
+#: admin/settings.php:864
+msgid "Footer Widgets Area Background"
+msgstr "Zona de fundal Widgets din subsol pagină"
+
+#: admin/settings.php:865
+msgid "Footer Background"
+msgstr "Fundal subsol de pagină"
+
+#: admin/settings.php:866 admin/settings.php:889 admin/settings.php:902
+#: admin/settings.php:915 admin/settings.php:947 admin/settings.php:959
+msgid "Text:"
+msgstr "Texte:"
+
+#: admin/settings.php:867
+msgid "General Text"
+msgstr "Text General"
+
+#: admin/settings.php:868
+msgid "General Lighter Text"
+msgstr "Text General mai deschis"
+
+#: admin/settings.php:869
+msgid "Footer Text"
+msgstr "Text subsol pagină"
+
+#: admin/settings.php:870
+msgid ""
+"The site background features 4 separately coloured areas.<br />The general "
+"text colour applies to all text on the website that is not controlled by any "
+"other option."
+msgstr ""
+"Fondul site-ului are 4 zone separat colorate. <br />Culoarea textului "
+"general se aplică la toate textele de pe site care nu sunt controlate de "
+"nici o alte opțiune."
+
+#: admin/settings.php:875
+msgid "Accent Color #1"
+msgstr "Culoare accent #1"
+
+#: admin/settings.php:876
+msgid "Accent Color #2"
+msgstr "Culoare accent #2"
+
+#: admin/settings.php:877
+msgid "Accent Color #3"
+msgstr "Culoare accent #3"
+
+#: admin/settings.php:878
+msgid "Accent Color #4"
+msgstr "Culoare accent #4"
+
+#: admin/settings.php:879
+msgid "Accent Color #5"
+msgstr "Culoare accent #5"
+
+#: admin/settings.php:888
+msgid "Site Description Background"
+msgstr "Culoar fundal descriere site"
+
+#: admin/settings.php:891
+msgid "Site Description"
+msgstr "Descriere site"
+
+#: admin/settings.php:898
+msgid "Menu Item Background"
+msgstr "Culoare fundal element meniu"
+
+#: admin/settings.php:899
+msgid "Menu Item Background on Hover"
+msgstr "Culoare fundal element meniu la deplasarea cursorului"
+
+#: admin/settings.php:900
+msgid "Active Menu Item Background"
+msgstr "Culoare fundal element meniu activ"
+
+#: admin/settings.php:901
+msgid "Submenu Shadow"
+msgstr "Umbra submeniu"
+
+#: admin/settings.php:903
+msgid "Menu Item Text"
+msgstr "Text element meniu"
+
+#: admin/settings.php:904
+msgid "Menu Item Text on Hover"
+msgstr "Text element meniu la deplasarea cursorului"
+
+#: admin/settings.php:905
+msgid "Active Menu Item Text"
+msgstr "Text element meniu activ"
+
+#: admin/settings.php:907
+msgid "These colours apply to the main site menu (and dropdown elements)."
+msgstr ""
+"Aceste culori se aplică la meniul site-ului principal (și a elementelor "
+"derulante)."
+
+#: admin/settings.php:913
+msgid "Top Menu Background"
+msgstr "Culoare fundal meniu din partea de sus"
+
+#: admin/settings.php:914
+msgid "Top Menu Background Hover"
+msgstr "Culoare fundal meniu din partea de sus la deplasarea cursorului"
+
+#: admin/settings.php:916
+msgid "Top Menu Link"
+msgstr "Link meniu din partea de sus"
+
+#: admin/settings.php:917
+msgid "Top Menu Link Hover"
+msgstr "Link meniu din partea de sus la deplasarea cursorului"
+
+#: admin/settings.php:918
+msgid ""
+"These colours apply to the top site menu (appears above the header when "
+"enabled)."
+msgstr ""
+"Aceste culori se aplică la meniul site-ului principal (apare deasupra antet, "
+"atunci când este activată)."
+
+#: admin/settings.php:923
+msgid "Content Background"
+msgstr "Culoare de fundal conținut"
+
+#: admin/settings.php:924
+msgid "Page/Post Title"
+msgstr "Titlu pagină/articol"
+
+#: admin/settings.php:925
+msgid "Page/Post Title Hover"
+msgstr "Titlu pagină/articol la deplasarea cursorului"
+
+#: admin/settings.php:926
+msgid "Content Headings"
+msgstr "Titluri conținut"
+
+#: admin/settings.php:927
+msgid "Content colours apply to post and page areas of the site."
+msgstr "Culoare conținut se aplică în zonele de pagini și articole de pe site."
+
+#: admin/settings.php:932
+msgid "Titles Color"
+msgstr "Culoare titluri"
+
+#: admin/settings.php:933
+msgid "Slider Border Color"
+msgstr "Culoare chenar slider"
+
+#: admin/settings.php:934
+msgid "Slider Caption Text Color"
+msgstr "Culoare text legendă Slider"
+
+#: admin/settings.php:935
+msgid "Slider Caption Background"
+msgstr "Culoare fundal legendă Slider"
+
+#: admin/settings.php:939
+msgid "These colours apply to specific areas of the presentation page."
+msgstr "Aceste culori se aplică anumitor zone ale paginii de prezentare."
+
+#: admin/settings.php:945
+msgid "Sidebars Background"
+msgstr "Culori de fundal bare laterale"
+
+#: admin/settings.php:946
+msgid "Sidebars Widget Title Background"
+msgstr "Culori de fundal titluri widget bare laterale"
+
+#: admin/settings.php:948
+msgid "Sidebars Text"
+msgstr "Text bare laterale"
+
+#: admin/settings.php:949
+msgid "Sidebars Widget Title Text"
+msgstr "Text titluri widget bare laterale"
+
+#: admin/settings.php:950
+msgid "These colours apply to the widgets placed in either sidebar."
+msgstr "Aceste culori se aplică widget-urile plasate în oricare bară laterală."
+
+#: admin/settings.php:957
+msgid "Footer Widgets Background"
+msgstr "Culoare fundal widget-uri din subsol pagină"
+
+#: admin/settings.php:958
+msgid "Footer Widgets Title Background"
+msgstr "Culoare fundal titluri widget-uri din subsol pagină"
+
+#: admin/settings.php:960
+msgid "Footer Widget Text"
+msgstr "Text widget-uri din subsol pagină"
+
+#: admin/settings.php:961
+msgid "Footer Widgets Title Text"
+msgstr "Text titluri widget-uri din subsol pagină"
+
+#: admin/settings.php:962
+msgid "These colours apply to the widgets in the footer area."
+msgstr "Aceste culori se aplică widget-urile din zona de subsol."
+
+#: admin/settings.php:967
+msgid "General:"
+msgstr "General:"
+
+#: admin/settings.php:968
+msgid "General Links"
+msgstr "Link-uri generale"
+
+#: admin/settings.php:969
+msgid "General Links Hover"
+msgstr "Link-uri generale la deplasarea cursorului"
+
+#: admin/settings.php:970
+msgid "Sidebar Widgets:"
+msgstr "Widget-uri bară laterală:"
+
+#: admin/settings.php:971
+msgid "Sidebar Widgets Links"
+msgstr "Link-uri widget-uri bară laterală"
+
+#: admin/settings.php:972
+msgid "Sidebar Widgets Links Hover"
+msgstr "Link-uri widget-uri bară laterală la deplasarea cursorului"
+
+#: admin/settings.php:973
+msgid "Footer Widgets:"
+msgstr "Widget-uri subsol pagină:"
+
+#: admin/settings.php:974
+msgid "Footer Widgets Links"
+msgstr "Link-uri widget-uri subsol pagină"
+
+#: admin/settings.php:975
+msgid "Footer Widgets Links Hover"
+msgstr "Link-uri widget-uri subsol pagină la deplasarea cursorului"
+
+#: admin/settings.php:976
+msgid "Footer:"
+msgstr "Subsol pagină:"
+
+#: admin/settings.php:977
+msgid "Footer Links"
+msgstr "Link-uri subsol pagină"
+
+#: admin/settings.php:978
+msgid "Footer Links Hover"
+msgstr "Link-uri subsol pagină la deplasarea cursorului"
+
+#: admin/settings.php:979
+msgid "Footer colours include the footer menu colours."
+msgstr "Culorile subsol inclusiv culori meniu subsol."
+
+#: admin/settings.php:985 admin/settings.php:999
+msgid "Clear"
+msgstr "Șterge"
+
+#: admin/settings.php:985 admin/settings.php:999
+msgid "Light"
+msgstr "(mai) Deschis"
+
+#: admin/settings.php:985 admin/settings.php:999
+msgid "Accented"
+msgstr "Accentuat"
+
+#: admin/settings.php:985 admin/settings.php:999
+msgid "Dark"
+msgstr "Întunecat"
+
+#: admin/settings.php:993
+msgid ""
+"This setting changes the look of your captions. Images that are not inserted "
+"through captions will not be affected."
+msgstr ""
+"Această setare modifică aspectul din explicaţii (legende imagini). Imaginile "
+"în care nu sunt inserate legende nu vor fi afectate."
+
+#: admin/settings.php:999
+msgid "Border only"
+msgstr "Doar chenar"
+
+#: admin/settings.php:1007
+msgid ""
+"The background for your meta areas (author, date, category, tags, continue "
+"reading and edit button)."
+msgstr ""
+"Fundal pentru zonele meta (autor, data, categorie, tag-uri, continuați să "
+"citiți și buton editare)."
+
+#: admin/settings.php:1026
+msgid ""
+"Show breadcrumbs at the top of the content area. Breadcrumbs are a form of "
+"navigation that keeps track of your location withtin the site."
+msgstr ""
+"Arătați meniul ajutător în partea de sus a zonei de conținut. Meniul "
+"ajutător este o formă de navigație care ține evidența locației dumneavoastră "
+"în cadrul site-ului."
+
+#: admin/settings.php:1041
+msgid ""
+"Show numbered pagination. Where there is more than one page, instead of the "
+"bottom <b>Older Posts</b> and <b>Newer posts</b> links you have a numbered "
+"pagination. "
+msgstr ""
+"Arată paginare numerotată. În cazul în care există mai mult de o pagină, în "
+"loc de link-urile din partea de jos <b>Articole mai vechi</b> și <b>Articole "
+"mai noi</b> o să aveți o paginare numerotată."
+
+#: admin/settings.php:1055
+msgid ""
+"Select the desired main menu items alignment. Center option is only valid "
+"for single line menus."
+msgstr ""
+"Selectați alinierea dorită ale principalelor elemente din meniu. Opțiunea "
+"Central este valabilă numai pentru meniurile pe o singură linie."
+
+#: admin/settings.php:1069
+msgid "Please, please... do not push this button. You have no idea what it..."
+msgstr ""
+"Vă rog, vă rog... nu apăsați acest buton. Nu aveți idee ceea ce este..."
+
+#: admin/settings.php:1084
+msgid ""
+"The border style for your images. Only images inserted in your posts and "
+"pages will be affected. "
+msgstr ""
+"Stilul de chenar pentru imagini. Numai imaginile inserate în articole și "
+"paginile dvs. vor fi afectate."
+
+#: admin/settings.php:1091 admin/settings.php:1108 admin/settings.php:1123
+#: admin/settings.php:1153 admin/settings.php:1168 admin/settings.php:1184
+#: admin/settings.php:1220 admin/settings.php:1249 admin/settings.php:1264
+#: admin/settings.php:1279 admin/settings.php:1294
+msgid "Show"
+msgstr "Arată"
+
+#: admin/settings.php:1091 admin/settings.php:1108 admin/settings.php:1123
+#: admin/settings.php:1153 admin/settings.php:1184 admin/settings.php:1220
+#: admin/settings.php:1249 admin/settings.php:1264 admin/settings.php:1279
+#: admin/settings.php:1294
+msgid "Hide"
+msgstr "Ascunde"
+
+#: admin/settings.php:1099
+msgid ""
+"Hide or show bullets next to lists in your content area (posts, pages etc.)."
+msgstr ""
+"Ascundeți sau afișați marcatori alături de liste în zona de conținut "
+"(articole, pagini etc.)."
+
+#: admin/settings.php:1116
+msgid "Hide or show titles on pages."
+msgstr "Ascundeți sau afișați titluri pe pagini."
+
+#: admin/settings.php:1131
+msgid "Hide or show titles on Categories and Archives."
+msgstr "Ascundeți sau afișați titluri la categorii și arhive."
+
+#: admin/settings.php:1146
+msgid "Hide table borders and background color."
+msgstr "Ascundeți chenarele tabelelor și culoarea de fundal."
+
+#: admin/settings.php:1161
+msgid ""
+"Hide the explanatory text under the comments form (starts with  <i>You may "
+"use these HTML tags and attributes:...</i>)."
+msgstr ""
+"Ascundeți textul explicativ de sub formularul de comentarii (începe cu <i> "
+"Poți folosi aceste etichete HTML și atribute:... </i>)."
+
+#: admin/settings.php:1168
+msgid "Hide in posts"
+msgstr "Ascunde în articole"
+
+#: admin/settings.php:1168
+msgid "Hide in pages"
+msgstr "Ascunde în pagini"
+
+#: admin/settings.php:1168
+msgid "Hide everywhere"
+msgstr "Ascunde peste tot"
+
+#: admin/settings.php:1176
+msgid ""
+"Hide the <b>Comments are closed</b> text that by default shows up on pages "
+"or posts with comments disabled."
+msgstr ""
+"Ascunde textull <b>Comentariile sunt dezactivate</b>, care în mod implicit "
+"apare pe pagini sau articole cu comentarii dezactivate."
+
+#: admin/settings.php:1192
+msgid ""
+"Hide the <b>Comments off</b> text next to posts that have comments disabled."
+msgstr ""
+"Ascunde textull <b>Comentariile sunt dezactivate</b>, de lângă articolele "
+"care au comentariile dezactivate."
+
+#: admin/settings.php:1208
+msgid ""
+"Enable the Back to Top button. The button appears after scrolling the page "
+"down."
+msgstr ""
+"Activați butonul Înapoi sus. Butonul apare după derularea paginii în jos."
+
+#: admin/settings.php:1228
+msgid ""
+"Hide or show the <strong>Leave a comment</strong> or <strong>x Comments</"
+"strong> next to posts or post excerpts."
+msgstr ""
+"Ascundeți sau afișați <strong>Lăsați un comentariu</strong> sau <strong>x "
+"Comentarii</strong> de lângă articole sau rezumate."
+
+#: admin/settings.php:1234
+msgid "Date and time"
+msgstr "Data și ora"
+
+#: admin/settings.php:1234
+msgid "Date only"
+msgstr "Doar data"
+
+#: admin/settings.php:1234
+msgid "Time only"
+msgstr "Doar ora"
+
+#: admin/settings.php:1234
+msgid "Hide both"
+msgstr "Ascundeți ambele"
+
+#: admin/settings.php:1242
+msgid "Hide or show the post date and time."
+msgstr "Ascundeți sau afișați data și ora articol."
+
+#: admin/settings.php:1257
+msgid "Hide or show the post author."
+msgstr "Ascundeți sau afișați autor articol."
+
+#: admin/settings.php:1272
+msgid "Hide the post category."
+msgstr "Ascundeți categoria articolului."
+
+#: admin/settings.php:1287
+msgid "Hide the post tags."
+msgstr "Ascundeți secțiunea cuvinte cheie."
+
+#: admin/settings.php:1302
+msgid "Hide the 'Bookmark permalink'."
+msgstr "Ascundeți \"Adauga la favorite legatura permanentă\"."
+
+#: admin/settings.php:1330 admin/settings.php:1345 admin/settings.php:1361
+msgid "Excerpt"
+msgstr "Rezumat"
+
+#: admin/settings.php:1330 admin/settings.php:1345 admin/settings.php:1361
+msgid "Full Post"
+msgstr "Articolul complet"
+
+#: admin/settings.php:1338
+msgid ""
+"Excerpts on the main page. Only standard posts will be affected. All other "
+"post formats (aside, image, chat, quote etc.) have their specific formating."
+msgstr ""
+"Rezumate pe pagina principală. Numai aricolele standard vor fi afectate. "
+"Toate celelalte formate de articole (pe o parte, imagine, chat, citat etc.) "
+"au formatarea lor specifică."
+
+#: admin/settings.php:1353
+msgid ""
+"Choose if you want the sticky posts on your home page to be visible in full "
+"or just the excerpts. "
+msgstr ""
+"Alegeți dacă doriți ca articolele promovate de pe pagina de start să fie "
+"vizibile în întregime sau doar rezumatele."
+
+#: admin/settings.php:1369
+msgid ""
+"Excerpts on archive, categroy and search pages. Same as above, only standard "
+"posts will be affected."
+msgstr ""
+"Rezumate în arhive, categorii și paginlei de căutare. La fel ca mai sus, "
+"numai mesaje standard vor fi afectate."
+
+#: admin/settings.php:1377
+msgid ""
+"The number of words for excerpts. When that number is reached the post will "
+"be interrupted by a <i>Continue reading</i> link that will take the reader "
+"to the full post page."
+msgstr ""
+"Numărul de cuvinte pentru rezumate. Când se ajunge la acest număr articolul "
+"va fi întrerupt de un link <i>Citiţi mai departe</i> care va duce cititorul "
+"la paginia întregul articol."
+
+#: admin/settings.php:1392
+msgid ""
+"Enable the Magazine Layout. This layout applies to pages with posts and "
+"shows 2 posts per row."
+msgstr ""
+"Activați Stilul Revistă. Acest stil se aplică pentru pagini cu articole și "
+"arată două articole pe un singur rând."
+
+#: admin/settings.php:1399
+msgid ""
+"Replaces the three dots ('[...])' that are appended automatically to "
+"excerpts."
+msgstr ""
+"Înlocuiește cele trei puncte (\"[...])\" care sunt anexate automat la "
+"rezumate."
+
+#: admin/settings.php:1406
+msgid "Edit the 'Continue Reading' link added to your post excerpts."
+msgstr ""
+"Editează link-ul \"Citiți mai departe\", adăugat la rezumatele articolelor."
+
+#: admin/settings.php:1449
+msgid ""
+"Show featured images as thumbnails on posts. The images must be selected for "
+"each post in the Featured Image section."
+msgstr ""
+"Afișează imaginile promovate ca miniaturi la articole. Imaginile trebuie să "
+"fie selectate pentru fiecare mesaj în secțiunea Imagini Promovate."
+
+#: admin/settings.php:1464
+msgid ""
+"Show the first image that you inserted in a post as a thumbnail. If there is "
+"a Featured Image selected for that post, it will have priority."
+msgstr ""
+"Afișează prima imagine pe care ați introdus într-un articol ca miniatură. "
+"Dacă există o Imagine Recomandată selectată pentru acest articol, acesta va "
+"avea prioritate."
+
+#: admin/settings.php:1480
+msgid "Thumbnail alignment."
+msgstr "Alinierea miniaturilor."
+
+#: admin/settings.php:1498
+msgid ""
+"The size (in pixels) for your thumbnails. By default imges will be scaled "
+"with aspect ratio kept. Choose to crop the images if you want the exact size."
+msgstr ""
+"Dimensiunea (în pixeli) pentru miniaturi articole. În mod implicit imaginile "
+"vor fi redimensionatd cu raportul de aspect păstrat. Alegeți pentru a tăia "
+"imaginile, dacă doriți dimensiunea exactă."
+
+#: admin/settings.php:1514
+msgid ""
+"Show featured images on headers. The header will be replaced with a featured "
+"image if you selected it as a Featured Image in the post and if it is bigger "
+"or at least equal to the current header size."
+msgstr ""
+"Afișare imagini recomandate în antete. Antetul va fi înlocuit cu o imagine "
+"recomandată, dacă ați selectat o imagine recomandate în articol și în cazul "
+"în care aceasta este mai mare sau cel puțin egală cu dimensiunea actuală a "
+"antetului."
+
+#: admin/settings.php:1526
+msgid ""
+"Select your desired Social network from the left dropdown menu and insert "
+"your corresponding address in the right input field. (ex: <i>http://www."
+"facebook.com/yourname</i> )"
+msgstr ""
+"Selectați Rețeaua Socială dorită din meniul vertical din stânga și "
+"introduceți adresa dvs. corespunzătoare în câmpul corect. (ex: <i>http://www."
+"facebook.com/yourname</i> )"
+
+#: admin/settings.php:1527
+msgid ""
+"You can also choose if you want the link to open in a new window and what "
+"title to dispaly while hovering over the icon."
+msgstr ""
+"Puteți alege, de asemenea, dacă doriți ca link-ul să se deschidă într-o "
+"fereastră nouă și ce titlu e afișat în timp ce treceți cu mouse-ul peste "
+"pictograma."
+
+#: admin/settings.php:1528
+msgid ""
+"You can show up to 5 different social icons from over 35 social networks."
+msgstr "Puteți afișa până la 5 icoane din peste 35 de rețele sociale diferite."
+
+#: admin/settings.php:1529
+msgid "You can leave any number of inputs empty."
+msgstr "Puteți lăsa orice număr de intrări goale."
+
+#: admin/settings.php:1530
+msgid ""
+"You can change the background for your social colors from the colors "
+"settings section."
+msgstr ""
+"Puteți schimba culorile fundalului pentru Retele sociale din secțiunea "
+"Setări culoare."
+
+#: admin/settings.php:1548
+msgid "Social Network Link"
+msgstr "Link rețele sociale"
+
+#: admin/settings.php:1553
+msgid "Open in new window"
+msgstr "Deschide într-o fereastră nouă"
+
+#: admin/settings.php:1555
+msgid "Social Network Title"
+msgstr "Titluri rețele sociale"
+
+#: admin/settings.php:1599
+msgid "Header"
+msgstr "Antet"
+
+#: admin/settings.php:1603
+msgid "Footer"
+msgstr "Subsol de pagină"
+
+#: admin/settings.php:1607
+msgid "Left side"
+msgstr "Partea stângă"
+
+#: admin/settings.php:1611
+msgid "Right side"
+msgstr "Partea dreaptă"
+
+#: admin/settings.php:1623
+msgid "Choose the <b>areas</b> where to display the social icons."
+msgstr "Alegeți <b>zonele</b> unde să se afișeze pictogramele sociale."
+
+#: admin/settings.php:1636
+msgid ""
+"Insert custom text or HTML code that will appear in you footer. <br /> You "
+"can use HTML to insert links, images and special characters like &copy;."
+msgstr ""
+"Introduceți textul personalizat sau cod HTML, care va apărea în subsol site-"
+"uluidvs. <br />Puteți utiliza HTML pentru a insera link-uri, imagini și "
+"caractere speciale, cum ar fi si &copy;."
+
+#: admin/settings.php:1644
+msgid ""
+"Insert your custom CSS here. Any CSS declarations made here will overwrite "
+"Parabola's (even the custom options specified right here in the Parabola "
+"Settings page). <br /> Your custom CSS will be preserved when updating the "
+"theme."
+msgstr ""
+"Introduceți CSS personalizat aici. Orice declarații CSS făcute aici vor "
+"suprascrie (chiar și opțiunile personalizate specificate în pagina de Setări "
+"Parabola). <br /> CSS-ul personalizat va fi păstrată la actualizarea temei."
+
+#: admin/settings.php:1651
+msgid ""
+"Insert your custom Javascript code here. (Google Analytics and any other "
+"forms of Analytic software)."
+msgstr ""
+"Introduceți cod Javascript personalizat aici. (Google Analytics, precum și "
+"orice alte forme de software analitic)."
+
+#: admin/settings.php:1664
+msgid ""
+"Enable extra compatibility tag for older Internet Explorer versions. Turning "
+"this option on will trigger W3C validation errors."
+msgstr ""
+"Activați extra compatibilitate pentru versiuni mai vechi de Internet "
+"Explorer. Activarea acestei opțiuni va declanșa erori de validare W3C."
+
+#: content/content-aside.php:19
+msgid "Aside"
+msgstr "La o parte"
+
+#: content/content-aside.php:32 content/content-chat.php:31
+#: content/content-image.php:26 content/content-link.php:31
+#: content/content-quote.php:29 content/content-status.php:35
+#: content/content-video.php:26
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Continuați lectura <span class=\"meta-nav\">&rarr;</span>"
+
+#: content/content-chat.php:19
+msgid "Chat"
+msgstr "Chat"
+
+#: content/content-gallery.php:21
+msgid "Gallery"
+msgstr "Galerie foto"
+
+#: content/content-quote.php:17
+msgid "Quote"
+msgstr "Citat"
+
+#: content/content-status.php:17
+msgid "Status"
+msgstr "Statut"
+
+#: content/content-video.php:18
+msgid "Video"
+msgstr "Video"
+
+#. translators: 1: date, 2: time
+#: includes/theme-comments.php:41
+msgid "at"
+msgstr "la"
+
+#: includes/theme-comments.php:26 includes/theme-comments.php:41
+msgid "(Edit)"
+msgstr "(Editează)"
+
+#: includes/theme-comments.php:48
+msgid "Your comment is awaiting moderation."
+msgstr "Comentariul dvs. așteaptă moderare."
+
+#: includes/theme-comments.php:26
+msgid "Pingback: "
+msgstr "Pingback: "
+
+#: includes/theme-comments.php:89
+msgid "No comments"
+msgstr "Nu sunt comentarii"
+
+#: includes/theme-comments.php:89
+msgid "<b>1</b> <span>Comment</span>"
+msgstr "<b>1</b> <span>Comentariu</span>"
+
+#: includes/theme-comments.php:89
+msgid "<b>%</b> <span>Comments</span>"
+msgstr "<b>%</b> <span>Comentarii</span>"
+
+# @ parablola
+#: includes/theme-comments.php:89
+msgid "<b>Comments off</b>"
+msgstr "<b>Comentarii dezactivate</b>"
+
+#: includes/theme-comments.php:113
+msgid "Older Comments"
+msgstr "Comentarii mai vechi"
+
+#: includes/theme-comments.php:114
+msgid "Newer Comments"
+msgstr "Comentarii mai noi"
+
+#: includes/theme-comments.php:142
+msgid "Comments are closed."
+msgstr "Comentariile nu sunt permise."
+
+#: includes/theme-functions.php:299
+msgid "Powered by"
+msgstr "Realizat de"
+
+#: includes/theme-loop.php:157
+msgid "By "
+msgstr "De"
+
+#: includes/theme-loop.php:199 includes/theme-loop.php:230
+msgid "Tagged"
+msgstr "Etichetat"
+
+#: includes/theme-loop.php:230
+msgid " Bookmark the "
+msgstr "Adaugă la favorite"
+
+#: includes/theme-loop.php:230 includes/theme-loop.php:232
+#: includes/theme-loop.php:234
+msgid "Permalink to"
+msgstr "Legătură permanentă la"
+
+#: includes/theme-loop.php:230 includes/theme-loop.php:232
+#: includes/theme-loop.php:234
+msgid "permalink"
+msgstr "legătură permanentă"
+
+#: includes/theme-loop.php:232 includes/theme-loop.php:234
+msgid "Bookmark the "
+msgstr "Adaugă la favorite"
+
+#: includes/theme-loop.php:255
+msgid "<span class=\"meta-nav\">&laquo;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&laquo;</span> Articole anterioare"
+
+#: includes/theme-loop.php:256
+msgid "Newer posts <span class=\"meta-nav\">&raquo;</span>"
+msgstr "Articole mai noi <span class=\"meta-nav\">&raquo;</span>"
+
+#: includes/theme-meta.php:26
+#, php-format
+msgid "Page %s"
+msgstr "Pagina %s"
+
+#: includes/theme-setup.php:87
+msgid "Primary Navigation"
+msgstr "Navigarea principală"
+
+#: includes/theme-setup.php:88
+msgid "Top Navigation"
+msgstr "Navigarea de sus"
+
+#: includes/theme-setup.php:89
+msgid "Footer Navigation"
+msgstr "Navigare subsol pagină"
+
+#: includes/theme-setup.php:121
+msgid "Parabola Default Header Image"
+msgstr "Imagine antet implicită Parabola"
+
+#: includes/theme-setup.php:182
+msgid "Skip to content"
+msgstr "Salt la conținut"
+
+#: includes/theme-setup.php:211
+msgid "Left sidebar"
+msgstr "Bară laterală stânga"
+
+#: includes/theme-setup.php:222
+msgid "Right sidebar"
+msgstr "Bară laterală dreapta"
+
+#: includes/theme-setup.php:231
+msgid "First Footer Area"
+msgstr "Prima zonă subsol pagină "
+
+#: includes/theme-setup.php:233
+msgid "First footer area"
+msgstr "Prima zonă subsol pagină "
+
+#: includes/theme-setup.php:242
+msgid "Second Footer Area"
+msgstr "A doua zonă subsol pagină "
+
+#: includes/theme-setup.php:244
+msgid "Second footer area"
+msgstr "A doua zonă subsol pagină "
+
+#: includes/theme-setup.php:253
+msgid "Third Footer Area"
+msgstr "A treia zonă subsol pagină "
+
+#: includes/theme-setup.php:255
+msgid "The third footer area"
+msgstr "A treia zonă subsol pagină "
+
+#: includes/theme-setup.php:264
+msgid "Fourth Footer Area"
+msgstr "A patra zonă subsol pagină "
+
+#: includes/theme-setup.php:266
+msgid "The fourth footer area"
+msgstr "A patra zonă subsol pagină "
+
+#: includes/theme-setup.php:275 includes/theme-setup.php:277
+msgid "Above Content Area"
+msgstr "Deasupra conținutului"
+
+#: includes/theme-setup.php:286 includes/theme-setup.php:288
+msgid "Below Content Area"
+msgstr "Sub conținut"
+
+#: admin/admin-functions.php:191
+msgid ""
+"Are you sure you want to load a new color scheme? \n"
+"All current saved settings under Text and Color Settings will be lost."
+msgstr ""
+"Sunteți sigur că doriți să încărcați o schemă de culori nouă? \n"
+"Toate setările curente salvate în Text și Setări culoare vor fi pierdute."
+
+#: admin/customizer.php:28
+msgid "Parabola Advanced Settings"
+msgstr "Setări avansate Parabola"
+
+#: admin/main.php:146
+msgid "Header Widget Width"
+msgstr "Lățime Widget Antet"
+
+#: admin/settings.php:162
+msgid "Allow zoom"
+msgstr "Permiteți zoom"
+
+#: admin/settings.php:198
+msgid "Show:"
+msgstr "Afișare:"
+
+#: admin/settings.php:200
+msgid "posts"
+msgstr "articole"
+
+#: admin/settings.php:201
+msgid ""
+"Enable to display latest posts on the presentation page, below the columns. "
+"Sticky posts are always displayed and not counted."
+msgstr ""
+"Activați pentru a afisa ultimele articole în pagina de prezentare, sub "
+"coloanele. Articolele promovate sunt întotdeauna afișate și nu sunt "
+"contorizate."
+
+#: admin/settings.php:204
+msgid "Posts per row:"
+msgstr "Articole pe rând:"
+
+#: admin/settings.php:334
+msgid "Disabled"
+msgstr "Dezactivat"
+
+#: admin/settings.php:600
+msgid "60%"
+msgstr "60%"
+
+#: admin/settings.php:600
+msgid "50%"
+msgstr "50%"
+
+#: admin/settings.php:600
+msgid "33%"
+msgstr "33%"
+
+#: admin/settings.php:600
+msgid "25%"
+msgstr "25%"
+
+#: admin/settings.php:608
+msgid ""
+"Limit the header widget area max width as percentage of the entire header "
+"width."
+msgstr ""
+"Limitați lățimea maximă a zonei widget din antet ca procent din lățimea "
+"întreagului antet."
+
+#: admin/settings.php:880
+msgid ""
+"Accents #1 and #2 should either be the same as the link colours or be "
+"separate from all other colours on the site."
+msgstr ""
+"Accentele #1 și #2 ar trebui să aibă culorile la fel ca link-urile sau să "
+"fie diferite de toate celelalte culori ale site-ul."
+
+#: admin/settings.php:881
+msgid ""
+"Accent #5 is used for input fields and buttons backgrounds, borders and "
+"lines."
+msgstr ""
+"Accentul #5 este folosit pentru campuri ddin formulare și fundaluri butoane, "
+"rame imagini și linii."
+
+#: admin/settings.php:882
+msgid ""
+"Accents #3 and #4 should be the lighter/darker than the content background "
+"colour, being used as borders/shades on elements where accent #5 is "
+"background colour."
+msgstr ""
+"Accentele #3 și #4 ar trebui să fie mei deschise/mai închise decât culoarea "
+"de fundal a conținutului, fiind folosit ca rame/nuanțe în elementele unde "
+"accentul #5 este o culoare de fundal."
+
+#: admin/settings.php:1047
+msgid "Right (multiline)"
+msgstr "Dreapta (linii multiple)"
+
+#: admin/settings.php:1309
+msgid "Show enabled"
+msgstr "Afișare activată"
+
+#: admin/settings.php:1309
+msgid "Hide all"
+msgstr "Ascunde tot"
+
+#: admin/settings.php:1317
+msgid ""
+"Hide the meta bar. All meta info/areas listed below will also be hidden."
+msgstr ""
+"Ascunde bara meta. Toate informatiile/zone meta enumerate mai jos vor fi, de "
+"asemenea, ascunse."
+
+#: admin/settings.php:1421
+msgid ""
+"By default WordPress excerpts remove all HTML tags (&lt;pre&gt;, &lt;a&gt;, "
+"&lt;b&gtl') and all others) and only clean text is left in the excerpt.\n"
+"Enabling this option allows HTML tags to remain in excerpts so all your "
+"default formating will be kept.<br /> <b>Just a warning: </b>If HTML tags "
+"are enabled, you have to make sure\n"
+"they are not left open. So if within your post you have an opened HTML tag "
+"but the except ends before that tag closes, the rest of the site will be "
+"contained in that HTML tag. -- Leave 'Disable' if unsure -- "
+msgstr ""
+"În mod implicit rezumatele din WordPress elimina toate tag-uri HTML (&lt;"
+"pre&gt;, &lt;a&gt;, &lt;b&gtl') și toate celelalte) și numai textul curat "
+"este lăsat în rezumat \n"
+"Activarea acestei opțiuni permite tag-uri HTML să rămână în rezumate încât "
+"formatarea implicită va fi păstrată<br /> <b> Doar un avertisment:. </b> "
+"Daca tag-uri HTML sunt activate, trebuie să vă asigurați \n"
+"că ele nu sunt lăsate deschise. Deci, dacă în rezumatul dvs. aveți o "
+"etichetă HTML deschisă, dar cu rezumatul se încheie înainte de închiderea "
+"tag-ului, restul site-ului va fi inclus în tag-ul HTML. -- Lăsați "
+"\"Dezactivat\" dacă nu sunteți sigur --"
+
+#: admin/settings.php:1448
+msgid "Link the thumbail to the post"
+msgstr "Leagă miniatură imagine de articol"
+
+#: admin/settings.php:1487
+msgid "(width)"
+msgstr "(lățime)"
+
+#: admin/settings.php:1488
+msgid "(height)"
+msgstr "(înălțime)"
+
+#: admin/settings.php:1495
+msgid "Crop images to exact size."
+msgstr "Decupați imaginile la dimensiunea exactă."
+
+#: archive.php:28
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "L A"
+
+#: archive.php:30
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "A"
+
+#: content/content-aside.php:16 content/content-chat.php:16
+#: content/content-gallery.php:18 content/content-gallery.php:44
+#: content/content-image.php:15 content/content-link.php:16
+#: content/content-quote.php:14 content/content-status.php:15
+#: content/content-video.php:15 content/content.php:21
+#, php-format
+msgid "Permalink to %s"
+msgstr "Legătură permanentă la %s"
+
+#: content/content-frontpage.php:37
+msgid "No Posts to Display"
+msgstr "Nici un articol de afişat"
+
+#: content/content-frontpage.php:42
+#, php-format
+msgid ""
+"You currently have no published posts.<br/>To hide this message either <a "
+"href=\"%s\">add some posts</a> or disable displaying posts on the "
+"Presentation Page in <a href=\"%s\">theme settings</a>."
+msgstr ""
+"În prezent nu aveți articole publicate. <br/>Pentru a ascunde acest mesaj, "
+"fie <a href=\"%s\">adăugați ceva articole</a> sau dezactivați afișarea de "
+"articole pe Pagina de prezentare în <a href=\"%s\">setări temă</a>."
+
+#: content/content-gallery.php:43
+#, php-format
+msgid "This gallery contains <a %1$s>%2$s photo</a>."
+msgid_plural "This gallery contains <a %1$s>%2$s photos</a>."
+msgstr[0] "Această galerie conține <a %1$s>%2$s fotografie</a>."
+msgstr[1] "Această galerie conține <a %1$s>%2$s fotografie</a>."
+msgstr[2] "Această galerie conține <a %1$s>%2$s fotografii</a>."
+
+#: includes/theme-comments.php:100
+#, php-format
+msgid "One Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] "Un comentariu"
+msgstr[1] "%1$s Comentarii"
+msgstr[2] "%1$s Comentarii"
+
+#: includes/theme-functions.php:215
+msgid "Tag"
+msgstr "Etichetă"
+
+#: includes/theme-functions.php:301
+msgid "Semantic Personal Publishing Platform"
+msgstr "Publicare Platformă Semantică personală"
+
+#: includes/theme-loop.php:159
+#, php-format
+msgid "View all posts by %s"
+msgstr "Vizualizați toate articolele de %s"
+
+#: includes/theme-setup.php:297 includes/theme-setup.php:299
+msgid "Header Widgets"
+msgstr "Widget-uri antet"
+
+#: sidebar-left.php:28
+#, php-format
+msgid ""
+"You currently have no widgets set in the left sidebar. You can add widgets "
+"via the <a href=\"%s\">Dashboard</a>."
+msgstr ""
+"În prezent nu aveți widget-uri în bara laterală stânga. Puteți adăuga widget-"
+"uri prin intermediul<a href=\"%s\">Tabloului de bord</a>."
+
+#: sidebar-right.php:28
+#, php-format
+msgid ""
+"You currently have no widgets set in the right sidebar. You can add widgets "
+"via the <a href=\"%s\">Dashboard</a>."
+msgstr ""
+"În prezent nu aveți widget-uri în bara laterală dreapta. Puteți adăuga "
+"widget-uri prin intermediul<a href=\"%s\">Tabloului de bord</a>."
