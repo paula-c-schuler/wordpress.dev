@@ -3,8 +3,9 @@
  * Twenty Fifteen functions and definitions
  *
  * Set up the theme and provides some helper functions, which are used in the
- * theme as custom template tags. Others are attached to action and filter
- * hooks in WordPress to change core functionality.
+ * theme as custom template tags. 
+ * Others are attached to action and filter hooks in WordPress 
+ * to change core functionality.
  *
  * When using a child theme you can override certain functions (those wrapped
  * in a function_exists() call) by defining them first in your child theme's
@@ -45,9 +46,9 @@ if ( ! function_exists( 'twentyfifteen_setup' ) ) :
 /**
  * Sets up theme defaults and registers support for various WordPress features.
  *
- * Note that this function is hooked into the after_setup_theme hook, which
- * runs before the init hook. The init hook is too late for some features, such
- * as indicating support for post thumbnails.
+ * Note that this function is hooked into the after_setup_theme hook, 
+ * which runs before the init hook. The init hook is too late for some features,
+ * such as indicating support for post thumbnails.
  *
  * @since Twenty Fifteen 1.0
  */
@@ -198,7 +199,7 @@ function twentyfifteen_fonts_url() {
 		$fonts_url = add_query_arg( array(
 			'family' => urlencode( implode( '|', $fonts ) ),
 			'subset' => urlencode( $subsets ),
-		), '//fonts.googleapis.com/css' );
+		), 'https://fonts.googleapis.com/css' );
 	}
 
 	return $fonts_url;
