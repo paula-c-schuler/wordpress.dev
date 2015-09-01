@@ -1,0 +1,60 @@
+1836.669 (6) Opened log file at time: Mon, 31 Aug 2015 17:23:12 +0000 on http://wordpress.dev
+1836.674 (6) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.11.5 WP: 4.3 PHP: 5.5.9-1ubuntu4.7 () MySQL: 5.5.41 Server: nginx/1.4.6 safe_mode: 0 max_execution_time: 30 memory_limit: 256M (used: 2.4M | 2.5M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+1836.677 (6) Free space on disk containing Updraft's temporary directory: 389577.6 Mb
+1836.683 (6) Backup run: resumption=6, nonce=45f436eda05b, begun at=1441039955 (1837s ago), job type=backup
+1836.687 (6) Scheduling a resumption (7) after 300 seconds (1441042092) in case this run gets aborted
+1836.692 (6) This backup run is not intended for files - skipping
+1836.695 (6) Database dump (WordPress DB): Creation was completed already
+1836.702 (6) Saving backup history
+1836.711 (6) backup_2015-08-31-1652_Paula_Schuler_45f436eda05b-db.gz: db: Note: This file was not marked as successfully uploaded, but does not exist on the local filesystem (/vagrant/sites/wordpress.dev/public/wp-content/updraft/backup_2015-08-31-1652_Paula_Schuler_45f436eda05b-db.gz)
+1836.716 (6) Recording as successfully uploaded: backup_2015-08-31-1652_Paula_Schuler_45f436eda05b-db.gz (b769ccfe0add420133d225477ecf9de6)
+1836.734 (6) Resume backup (45f436eda05b, 6): finish run
+1836.739 (6) There were no more files that needed uploading
+1836.742 (6) There were errors in the uploads, so the 'resume' event is remaining scheduled
+1836.744 (6) No email will be sent - this backup set was empty.
+1836.746 (6) The backup has not finished; a resumption is scheduled
+2136.797 (7) Opened log file at time: Mon, 31 Aug 2015 17:28:12 +0000 on http://wordpress.dev
+2136.800 (7) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.11.5 WP: 4.3 PHP: 5.5.9-1ubuntu4.7 () MySQL: 5.5.41 Server: nginx/1.4.6 safe_mode: 0 max_execution_time: 30 memory_limit: 256M (used: 2.4M | 2.5M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+2136.802 (7) Free space on disk containing Updraft's temporary directory: 389552 Mb
+2136.807 (7) Backup run: resumption=7, nonce=45f436eda05b, begun at=1441039955 (2137s ago), job type=backup
+2136.810 (7) Scheduling a resumption (8) after 300 seconds (1441042392) in case this run gets aborted
+2136.816 (7) This backup run is not intended for files - skipping
+2136.820 (7) Database dump (WordPress DB): Creation was completed already
+2136.825 (7) Saving backup history
+2136.832 (7) backup_2015-08-31-1652_Paula_Schuler_45f436eda05b-db.gz: db: Note: This file was not marked as successfully uploaded, but does not exist on the local filesystem (/vagrant/sites/wordpress.dev/public/wp-content/updraft/backup_2015-08-31-1652_Paula_Schuler_45f436eda05b-db.gz)
+2136.837 (7) Recording as successfully uploaded: backup_2015-08-31-1652_Paula_Schuler_45f436eda05b-db.gz (b769ccfe0add420133d225477ecf9de6)
+2136.855 (7) Resume backup (45f436eda05b, 7): finish run
+2136.860 (7) There were no more files that needed uploading
+2136.862 (7) There were errors in the uploads, so the 'resume' event is remaining scheduled
+2136.865 (7) No email will be sent - this backup set was empty.
+2136.866 (7) The backup has not finished; a resumption is scheduled
+2444.648 (8) Opened log file at time: Mon, 31 Aug 2015 17:33:20 +0000 on http://wordpress.dev
+2444.651 (8) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.11.5 WP: 4.3 PHP: 5.5.9-1ubuntu4.7 () MySQL: 5.5.41 Server: nginx/1.4.6 safe_mode: 0 max_execution_time: 30 memory_limit: 256M (used: 2.4M | 2.5M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+2444.654 (8) Free space on disk containing Updraft's temporary directory: 389368.7 Mb
+2444.659 (8) Backup run: resumption=8, nonce=45f436eda05b, begun at=1441039955 (2445s ago), job type=backup
+2444.661 (8) Scheduling a resumption (9) after 300 seconds (1441042700) in case this run gets aborted
+2444.666 (8) This backup run is not intended for files - skipping
+2444.669 (8) Database dump (WordPress DB): Creation was completed already
+2444.671 (8) Saving backup history
+2444.678 (8) backup_2015-08-31-1652_Paula_Schuler_45f436eda05b-db.gz: db: Note: This file was not marked as successfully uploaded, but does not exist on the local filesystem (/vagrant/sites/wordpress.dev/public/wp-content/updraft/backup_2015-08-31-1652_Paula_Schuler_45f436eda05b-db.gz)
+2444.684 (8) Recording as successfully uploaded: backup_2015-08-31-1652_Paula_Schuler_45f436eda05b-db.gz (b769ccfe0add420133d225477ecf9de6)
+2444.698 (8) Resume backup (45f436eda05b, 8): finish run
+2444.702 (8) There were no more files that needed uploading
+2444.704 (8) There were errors in the uploads, so the 'resume' event is remaining scheduled
+2444.706 (8) No email will be sent - this backup set was empty.
+2444.708 (8) The backup has not finished; a resumption is scheduled
+2785.781 (9) Opened log file at time: Mon, 31 Aug 2015 17:39:01 +0000 on http://wordpress.dev
+2785.807 (9) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.11.5 WP: 4.3 PHP: 5.5.9-1ubuntu4.7 () MySQL: 5.5.41 Server: nginx/1.4.6 safe_mode: 0 max_execution_time: 30 memory_limit: 256M (used: 3.2M | 3.5M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+2785.823 (9) Free space on disk containing Updraft's temporary directory: 389358.7 Mb
+2785.884 (9) Backup run: resumption=9, nonce=45f436eda05b, begun at=1441039955 (2786s ago), job type=backup
+2785.906 (9) The current run is resumption number 9, and there was nothing useful done on the last run (last useful run: 0) - will not schedule a further attempt until we see something useful happening this time
+2785.950 (9) This backup run is not intended for files - skipping
+2785.966 (9) Database dump (WordPress DB): Creation was completed already
+2785.980 (9) Saving backup history
+2786.041 (9) backup_2015-08-31-1652_Paula_Schuler_45f436eda05b-db.gz: db: Note: This file was not marked as successfully uploaded, but does not exist on the local filesystem (/vagrant/sites/wordpress.dev/public/wp-content/updraft/backup_2015-08-31-1652_Paula_Schuler_45f436eda05b-db.gz)
+2786.093 (9) Recording as successfully uploaded: backup_2015-08-31-1652_Paula_Schuler_45f436eda05b-db.gz (b769ccfe0add420133d225477ecf9de6)
+2786.215 (9) Resume backup (45f436eda05b, 9): finish run
+2786.267 (9) There were no more files that needed uploading
+2786.283 (9) There were errors in the uploads, so the 'resume' event is remaining scheduled
+2786.305 (9) No email will be sent - this backup set was empty.
+2786.326 (9) The backup attempt has finished, apparently unsuccessfully

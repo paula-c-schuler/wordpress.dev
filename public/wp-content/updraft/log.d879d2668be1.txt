@@ -1,0 +1,348 @@
+0000.004 (0) Opened log file at time: Mon, 31 Aug 2015 16:52:35 +0000 on http://wordpress.dev
+0000.008 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.11.5 WP: 4.3 PHP: 5.5.9-1ubuntu4.7 () MySQL: 5.5.41 Server: nginx/1.4.6 safe_mode: 0 max_execution_time: 30 memory_limit: 256M (used: 2.2M | 2.5M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+0000.011 (0) Free space on disk containing Updraft's temporary directory: 389857.9 Mb
+0000.078 (0) Tasks: Backup files:  (schedule: manual) Backup DB: 1 (schedule: monthly)
+0000.082 (0) Processed schedules. Tasks now: Backup files:  Backup DB: 1
+0000.095 (0) Requesting semaphore lock (d)
+0000.142 (0) Set semaphore last lock (d) time to 2015-08-31 16:52:36
+0000.145 (0) Semaphore lock (d) complete
+0000.154 (0) Backup run: resumption=0, nonce=d879d2668be1, begun at=1441039955 (1s ago), job type=backup
+0000.160 (0) Scheduling a resumption (1) after 300 seconds (1441040256) in case this run gets aborted
+0000.178 (0) This backup run is not intended for files - skipping
+0000.181 (0) Beginning creation of database dump (WordPress DB)
+0000.268 (0) Table wp_options: Total expected rows (approximate): 784
+0000.340 (0) Table wp_options: Total rows added: 0 in 0.07 seconds
+0000.345 (0) Table wp_options: finishing file (backup_2015-08-31-1652_Paula_Schuler_d879d2668be1-db-table-wp_options.table.gz - 0.3 Kb)
+0000.371 (0) Table wp_users: Total expected rows (approximate): 2
+0000.377 (0) Table wp_users: Total rows added: 2 in 0.00 seconds
+0000.380 (0) Table wp_users: finishing file (backup_2015-08-31-1652_Paula_Schuler_d879d2668be1-db-table-wp_users.table.gz - 0.6 Kb)
+0000.390 (0) Table wp_usermeta: Total expected rows (approximate): 34
+0000.396 (0) Table wp_usermeta: Total rows added: 34 in 0.00 seconds
+0000.400 (0) Table wp_usermeta: finishing file (backup_2015-08-31-1652_Paula_Schuler_d879d2668be1-db-table-wp_usermeta.table.gz - 1.2 Kb)
+0000.409 (0) Table wp_commentmeta: Total expected rows (approximate): 0
+0000.413 (0) Table wp_commentmeta: Total rows added: 0 in 0.00 seconds
+0000.416 (0) Table wp_commentmeta: finishing file (backup_2015-08-31-1652_Paula_Schuler_d879d2668be1-db-table-wp_commentmeta.table.gz - 0.3 Kb)
+0000.426 (0) Table wp_comments: Total expected rows (approximate): 1
+0000.431 (0) Table wp_comments: Total rows added: 1 in 0.00 seconds
+0000.434 (0) Table wp_comments: finishing file (backup_2015-08-31-1652_Paula_Schuler_d879d2668be1-db-table-wp_comments.table.gz - 0.6 Kb)
+0000.443 (0) Table wp_links: Total expected rows (approximate): 0
+0000.448 (0) Table wp_links: Total rows added: 0 in 0.00 seconds
+0000.451 (0) Table wp_links: finishing file (backup_2015-08-31-1652_Paula_Schuler_d879d2668be1-db-table-wp_links.table.gz - 0.4 Kb)
+0000.460 (0) Table wp_postmeta: Total expected rows (approximate): 33
+0000.468 (0) Table wp_postmeta: Total rows added: 33 in 0.00 seconds
+0000.471 (0) Table wp_postmeta: finishing file (backup_2015-08-31-1652_Paula_Schuler_d879d2668be1-db-table-wp_postmeta.table.gz - 0.7 Kb)
+0000.481 (0) Table wp_posts: Total expected rows (approximate): 24
+0000.495 (0) Table wp_posts: Total rows added: 24 in 0.01 seconds
+0000.499 (0) Table wp_posts: finishing file (backup_2015-08-31-1652_Paula_Schuler_d879d2668be1-db-table-wp_posts.table.gz - 2.3 Kb)
+0000.509 (0) Table wp_term_relationships: Total expected rows (approximate): 9
+0000.513 (0) Table wp_term_relationships: Total rows added: 9 in 0.00 seconds
+0000.517 (0) Table wp_term_relationships: finishing file (backup_2015-08-31-1652_Paula_Schuler_d879d2668be1-db-table-wp_term_relationships.table.gz - 0.3 Kb)
+0000.526 (0) Table wp_term_taxonomy: Total expected rows (approximate): 10
+0000.532 (0) Table wp_term_taxonomy: Total rows added: 10 in 0.00 seconds
+0000.536 (0) Table wp_term_taxonomy: finishing file (backup_2015-08-31-1652_Paula_Schuler_d879d2668be1-db-table-wp_term_taxonomy.table.gz - 0.5 Kb)
+0000.558 (0) Table wp_terms: Total expected rows (approximate): 10
+0000.563 (0) Table wp_terms: Total rows added: 10 in 0.00 seconds
+0000.566 (0) Table wp_terms: finishing file (backup_2015-08-31-1652_Paula_Schuler_d879d2668be1-db-table-wp_terms.table.gz - 0.5 Kb)
+0000.576 (0) backup_2015-08-31-1652_Paula_Schuler_d879d2668be1-db-table-wp_options.table.gz (1/11): adding to final database dump
+0000.580 (0) backup_2015-08-31-1652_Paula_Schuler_d879d2668be1-db-table-wp_users.table.gz (2/11): adding to final database dump
+0000.585 (0) backup_2015-08-31-1652_Paula_Schuler_d879d2668be1-db-table-wp_usermeta.table.gz (3/11): adding to final database dump
+0000.589 (0) backup_2015-08-31-1652_Paula_Schuler_d879d2668be1-db-table-wp_commentmeta.table.gz (4/11): adding to final database dump
+0000.593 (0) backup_2015-08-31-1652_Paula_Schuler_d879d2668be1-db-table-wp_comments.table.gz (5/11): adding to final database dump
+0000.597 (0) backup_2015-08-31-1652_Paula_Schuler_d879d2668be1-db-table-wp_links.table.gz (6/11): adding to final database dump
+0000.601 (0) backup_2015-08-31-1652_Paula_Schuler_d879d2668be1-db-table-wp_postmeta.table.gz (7/11): adding to final database dump
+0000.606 (0) backup_2015-08-31-1652_Paula_Schuler_d879d2668be1-db-table-wp_posts.table.gz (8/11): adding to final database dump
+0000.611 (0) backup_2015-08-31-1652_Paula_Schuler_d879d2668be1-db-table-wp_term_relationships.table.gz (9/11): adding to final database dump
+0000.615 (0) backup_2015-08-31-1652_Paula_Schuler_d879d2668be1-db-table-wp_term_taxonomy.table.gz (10/11): adding to final database dump
+0000.621 (0) backup_2015-08-31-1652_Paula_Schuler_d879d2668be1-db-table-wp_terms.table.gz (11/11): adding to final database dump
+0000.625 (0) backup_2015-08-31-1652_Paula_Schuler_d879d2668be1-db.gz: finished writing out complete database file (0 Kb)
+0000.639 (0) Total database tables backed up: 11 (backup_2015-08-31-1652_Paula_Schuler_d879d2668be1-db.gz, size: 5465, checksum (SHA1): 92f26c3da68b4edec59419a71333f1929e3de1da)
+0000.644 (0) Saving backup history
+0000.656 (0) backup_2015-08-31-1652_Paula_Schuler_d879d2668be1-db.gz: db: This file has not yet been successfully uploaded: will queue
+0000.661 (0) Requesting upload of the files that have not yet been successfully uploaded (1)
+0000.668 (0) Cloud backup selection (1/1): dropbox (last)
+0000.672 (0) Beginning dispatch of backup to remote (dropbox)
+0000.674 (0) Dropbox: begin cloud upload
+0000.676 (0) You do not appear to be authenticated with Dropbox
+0000.678 (0) An error condition has occurred for the first time during this job
+0000.684 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0000.687 (0) Number of backup sets in history: 1
+0000.690 (0) Examining backup set with datestamp: 1441039955 (Aug 31 2015 16:52:35)
+0000.693 (0) 1441039955: this backup set remains non-empty (0/1); will retain in history
+0000.695 (0) Retain: saving new backup history (sets now: 1) and finishing retain operation
+0000.700 (0) Resume backup (d879d2668be1, 0): finish run
+0000.706 (0) Decremented the semaphore (d) by 1
+0000.709 (0) Semaphore (d) unlocked
+0000.711 (0) There were errors in the uploads, so the 'resume' event is remaining scheduled
+0000.719 (0) Rescheduling resumption 1: moving to 120 seconds from now (1441040076)
+0000.725 (0) The backup has not finished; a resumption is scheduled
+0209.102 (1) Opened log file at time: Mon, 31 Aug 2015 16:56:05 +0000 on http://wordpress.dev
+0209.106 (1) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.11.5 WP: 4.3 PHP: 5.5.9-1ubuntu4.7 () MySQL: 5.5.41 Server: nginx/1.4.6 safe_mode: 0 max_execution_time: 30 memory_limit: 256M (used: 2.3M | 2.5M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+0209.109 (1) Free space on disk containing Updraft's temporary directory: 389836.8 Mb
+0209.114 (1) Backup run: resumption=1, nonce=d879d2668be1, begun at=1441039955 (210s ago), job type=backup, previous check-in=0.6s
+0209.120 (1) Scheduling a resumption (2) after 300 seconds (1441040465) in case this run gets aborted
+0209.125 (1) This backup run is not intended for files - skipping
+0209.128 (1) Database dump (WordPress DB): Creation was completed already
+0209.132 (1) Saving backup history
+0209.146 (1) backup_2015-08-31-1652_Paula_Schuler_d879d2668be1-db.gz: db: This file has not yet been successfully uploaded: will queue
+0209.153 (1) Requesting upload of the files that have not yet been successfully uploaded (1)
+0209.158 (1) Cloud backup selection (1/1): dropbox (last)
+0209.162 (1) Beginning dispatch of backup to remote (dropbox)
+0209.164 (1) Dropbox: begin cloud upload
+0209.166 (1) You do not appear to be authenticated with Dropbox
+0209.170 (1) An error condition has occurred for the first time during this job
+0209.177 (1) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0209.180 (1) Number of backup sets in history: 2
+0209.185 (1) Examining backup set with datestamp: 1441039970 (Aug 31 2015 16:52:50)
+0209.188 (1) 1441039970: this backup set remains non-empty (1/1); will retain in history
+0209.191 (1) Examining backup set with datestamp: 1441039955 (Aug 31 2015 16:52:35)
+0209.193 (1) 1441039955: this backup set remains non-empty (0/1); will retain in history
+0209.196 (1) Retain: saving new backup history (sets now: 2) and finishing retain operation
+0209.201 (1) Resume backup (d879d2668be1, 1): finish run
+0209.206 (1) There were errors in the uploads, so the 'resume' event is remaining scheduled
+0209.212 (1) The backup has not finished; a resumption is scheduled
+0561.073 (2) Opened log file at time: Mon, 31 Aug 2015 17:01:57 +0000 on http://wordpress.dev
+0561.078 (2) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.11.5 WP: 4.3 PHP: 5.5.9-1ubuntu4.7 () MySQL: 5.5.41 Server: nginx/1.4.6 safe_mode: 0 max_execution_time: 30 memory_limit: 256M (used: 2.2M | 2.5M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+0561.083 (2) Free space on disk containing Updraft's temporary directory: 389841.7 Mb
+0561.087 (2) Backup run: resumption=2, nonce=d879d2668be1, begun at=1441039955 (562s ago), job type=backup
+0561.092 (2) Scheduling a resumption (3) after 300 seconds (1441040817) in case this run gets aborted
+0561.098 (2) This backup run is not intended for files - skipping
+0561.101 (2) Database dump (WordPress DB): Creation was completed already
+0561.104 (2) Saving backup history
+0561.115 (2) backup_2015-08-31-1652_Paula_Schuler_d879d2668be1-db.gz: db: This file has not yet been successfully uploaded: will queue
+0561.120 (2) Requesting upload of the files that have not yet been successfully uploaded (1)
+0561.125 (2) Cloud backup selection (1/1): dropbox (last)
+0561.128 (2) Beginning dispatch of backup to remote (dropbox)
+0561.131 (2) Dropbox: begin cloud upload
+0561.134 (2) You do not appear to be authenticated with Dropbox
+0561.135 (2) An error condition has occurred for the first time during this job
+0561.141 (2) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0561.143 (2) Number of backup sets in history: 2
+0561.147 (2) Examining backup set with datestamp: 1441039970 (Aug 31 2015 16:52:50)
+0561.150 (2) 1441039970: this backup set remains non-empty (1/1); will retain in history
+0561.153 (2) Examining backup set with datestamp: 1441039955 (Aug 31 2015 16:52:35)
+0561.155 (2) 1441039955: this backup set remains non-empty (0/1); will retain in history
+0561.157 (2) Retain: saving new backup history (sets now: 2) and finishing retain operation
+0561.162 (2) Resume backup (d879d2668be1, 2): finish run
+0561.167 (2) There were errors in the uploads, so the 'resume' event is remaining scheduled
+0561.171 (2) The backup has not finished; a resumption is scheduled
+0865.236 (3) Opened log file at time: Mon, 31 Aug 2015 17:07:01 +0000 on http://wordpress.dev
+0865.239 (3) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.11.5 WP: 4.3 PHP: 5.5.9-1ubuntu4.7 () MySQL: 5.5.41 Server: nginx/1.4.6 safe_mode: 0 max_execution_time: 30 memory_limit: 256M (used: 2.2M | 2.5M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+0865.242 (3) Free space on disk containing Updraft's temporary directory: 389823.6 Mb
+0865.253 (3) Backup run: resumption=3, nonce=d879d2668be1, begun at=1441039955 (866s ago), job type=backup
+0865.268 (3) Scheduling a resumption (4) after 300 seconds (1441041121) in case this run gets aborted
+0865.306 (3) This backup run is not intended for files - skipping
+0865.310 (3) Database dump (WordPress DB): Creation was completed already
+0865.314 (3) Saving backup history
+0865.325 (3) backup_2015-08-31-1652_Paula_Schuler_d879d2668be1-db.gz: db: This file has not yet been successfully uploaded: will queue
+0865.331 (3) Requesting upload of the files that have not yet been successfully uploaded (1)
+0865.337 (3) Cloud backup selection (1/1): dropbox (last)
+0865.340 (3) Beginning dispatch of backup to remote (dropbox)
+0865.343 (3) Dropbox: begin cloud upload
+0865.349 (3) You do not appear to be authenticated with Dropbox
+0865.351 (3) An error condition has occurred for the first time during this job
+0865.356 (3) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0865.359 (3) Number of backup sets in history: 3
+0865.363 (3) Examining backup set with datestamp: 1441040731 (Aug 31 2015 17:05:31)
+0865.365 (3) 1441040731: this backup set remains non-empty (1/1); will retain in history
+0865.369 (3) Examining backup set with datestamp: 1441039970 (Aug 31 2015 16:52:50)
+0865.371 (3) 1441039970: this backup set remains non-empty (1/1); will retain in history
+0865.375 (3) Examining backup set with datestamp: 1441039955 (Aug 31 2015 16:52:35)
+0865.378 (3) 1441039955: db: this set includes a database (backup_2015-08-31-1652_Paula_Schuler_d879d2668be1-db.gz); db count is now 3
+0865.380 (3) 1441039955: db: over retain limit (2); will delete this database
+0865.382 (3) This backup set (1441039955) is the backup set just made, so will not be deleted.
+0865.384 (3) 1441039955: this backup set remains non-empty (0/1); will retain in history
+0865.386 (3) Retain: saving new backup history (sets now: 3) and finishing retain operation
+0865.392 (3) Resume backup (d879d2668be1, 3): finish run
+0865.399 (3) There were errors in the uploads, so the 'resume' event is remaining scheduled
+0865.407 (3) The backup has not finished; a resumption is scheduled
+1186.898 (4) Opened log file at time: Mon, 31 Aug 2015 17:12:22 +0000 on http://wordpress.dev
+1186.901 (4) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.11.5 WP: 4.3 PHP: 5.5.9-1ubuntu4.7 () MySQL: 5.5.41 Server: nginx/1.4.6 safe_mode: 0 max_execution_time: 30 memory_limit: 256M (used: 2.3M | 2.5M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+1186.904 (4) Free space on disk containing Updraft's temporary directory: 389656.3 Mb
+1186.909 (4) Backup run: resumption=4, nonce=d879d2668be1, begun at=1441039955 (1187s ago), job type=backup
+1186.914 (4) Scheduling a resumption (5) after 300 seconds (1441041442) in case this run gets aborted
+1186.951 (4) This backup run is not intended for files - skipping
+1186.955 (4) Database dump (WordPress DB): Creation was completed already
+1186.960 (4) Saving backup history
+1186.981 (4) backup_2015-08-31-1652_Paula_Schuler_d879d2668be1-db.gz: db: This file has not yet been successfully uploaded: will queue
+1186.995 (4) Requesting upload of the files that have not yet been successfully uploaded (1)
+1187.004 (4) Cloud backup selection (1/1): dropbox (last)
+1187.008 (4) Beginning dispatch of backup to remote (dropbox)
+1187.011 (4) Dropbox: begin cloud upload
+1187.013 (4) You do not appear to be authenticated with Dropbox
+1187.015 (4) An error condition has occurred for the first time during this job
+1187.021 (4) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+1187.023 (4) Number of backup sets in history: 3
+1187.027 (4) Examining backup set with datestamp: 1441040731 (Aug 31 2015 17:05:31)
+1187.030 (4) 1441040731: this backup set remains non-empty (1/1); will retain in history
+1187.034 (4) Examining backup set with datestamp: 1441039970 (Aug 31 2015 16:52:50)
+1187.038 (4) 1441039970: this backup set remains non-empty (1/1); will retain in history
+1187.040 (4) Examining backup set with datestamp: 1441039955 (Aug 31 2015 16:52:35)
+1187.043 (4) 1441039955: db: this set includes a database (backup_2015-08-31-1652_Paula_Schuler_d879d2668be1-db.gz); db count is now 3
+1187.047 (4) 1441039955: db: over retain limit (2); will delete this database
+1187.050 (4) This backup set (1441039955) is the backup set just made, so will not be deleted.
+1187.053 (4) 1441039955: this backup set remains non-empty (0/1); will retain in history
+1187.058 (4) Retain: saving new backup history (sets now: 3) and finishing retain operation
+1187.068 (4) Resume backup (d879d2668be1, 4): finish run
+1187.076 (4) There were errors in the uploads, so the 'resume' event is remaining scheduled
+1187.083 (4) The backup has not finished; a resumption is scheduled
+1516.780 (5) Opened log file at time: Mon, 31 Aug 2015 17:17:52 +0000 on http://wordpress.dev
+1516.782 (5) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.11.5 WP: 4.3 PHP: 5.5.9-1ubuntu4.7 () MySQL: 5.5.41 Server: nginx/1.4.6 safe_mode: 0 max_execution_time: 30 memory_limit: 256M (used: 2.2M | 2.5M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+1516.785 (5) Free space on disk containing Updraft's temporary directory: 389839 Mb
+1516.789 (5) Backup run: resumption=5, nonce=d879d2668be1, begun at=1441039955 (1517s ago), job type=backup
+1516.793 (5) Scheduling a resumption (6) after 300 seconds (1441041772) in case this run gets aborted
+1516.799 (5) This backup run is not intended for files - skipping
+1516.802 (5) Database dump (WordPress DB): Creation was completed already
+1516.804 (5) Saving backup history
+1516.816 (5) backup_2015-08-31-1652_Paula_Schuler_d879d2668be1-db.gz: db: This file has not yet been successfully uploaded: will queue
+1516.822 (5) Requesting upload of the files that have not yet been successfully uploaded (1)
+1516.826 (5) Cloud backup selection (1/1): dropbox (last)
+1516.829 (5) Beginning dispatch of backup to remote (dropbox)
+1516.832 (5) Dropbox: begin cloud upload
+1516.834 (5) You do not appear to be authenticated with Dropbox
+1516.836 (5) An error condition has occurred for the first time during this job
+1516.842 (5) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+1516.844 (5) Number of backup sets in history: 3
+1516.848 (5) Examining backup set with datestamp: 1441040731 (Aug 31 2015 17:05:31)
+1516.851 (5) 1441040731: this backup set remains non-empty (1/1); will retain in history
+1516.853 (5) Examining backup set with datestamp: 1441039970 (Aug 31 2015 16:52:50)
+1516.856 (5) 1441039970: this backup set remains non-empty (1/1); will retain in history
+1516.858 (5) Examining backup set with datestamp: 1441039955 (Aug 31 2015 16:52:35)
+1516.861 (5) 1441039955: db: this set includes a database (backup_2015-08-31-1652_Paula_Schuler_d879d2668be1-db.gz); db count is now 3
+1516.863 (5) 1441039955: db: over retain limit (2); will delete this database
+1516.865 (5) This backup set (1441039955) is the backup set just made, so will not be deleted.
+1516.867 (5) 1441039955: this backup set remains non-empty (0/1); will retain in history
+1516.870 (5) Retain: saving new backup history (sets now: 3) and finishing retain operation
+1516.912 (5) Resume backup (d879d2668be1, 5): finish run
+1516.917 (5) There were errors in the uploads, so the 'resume' event is remaining scheduled
+1516.922 (5) The backup has not finished; a resumption is scheduled
+1836.483 (6) Opened log file at time: Mon, 31 Aug 2015 17:23:12 +0000 on http://wordpress.dev
+1836.486 (6) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.11.5 WP: 4.3 PHP: 5.5.9-1ubuntu4.7 () MySQL: 5.5.41 Server: nginx/1.4.6 safe_mode: 0 max_execution_time: 30 memory_limit: 256M (used: 2.2M | 2.5M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+1836.491 (6) Free space on disk containing Updraft's temporary directory: 389577.7 Mb
+1836.497 (6) Backup run: resumption=6, nonce=d879d2668be1, begun at=1441039955 (1837s ago), job type=backup
+1836.502 (6) Scheduling a resumption (7) after 300 seconds (1441042092) in case this run gets aborted
+1836.510 (6) This backup run is not intended for files - skipping
+1836.512 (6) Database dump (WordPress DB): Creation was completed already
+1836.514 (6) Saving backup history
+1836.530 (6) backup_2015-08-31-1652_Paula_Schuler_d879d2668be1-db.gz: db: This file has not yet been successfully uploaded: will queue
+1836.536 (6) Requesting upload of the files that have not yet been successfully uploaded (1)
+1836.541 (6) Cloud backup selection (1/1): dropbox (last)
+1836.544 (6) Beginning dispatch of backup to remote (dropbox)
+1836.547 (6) Dropbox: begin cloud upload
+1836.554 (6) You do not appear to be authenticated with Dropbox
+1836.557 (6) An error condition has occurred for the first time during this job
+1836.563 (6) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+1836.566 (6) Number of backup sets in history: 4
+1836.571 (6) Examining backup set with datestamp: 1441041577 (Aug 31 2015 17:19:37)
+1836.574 (6) 1441041577: this backup set remains non-empty (1/0); will retain in history
+1836.577 (6) Examining backup set with datestamp: 1441040731 (Aug 31 2015 17:05:31)
+1836.582 (6) 1441040731: this backup set remains non-empty (1/1); will retain in history
+1836.585 (6) Examining backup set with datestamp: 1441039970 (Aug 31 2015 16:52:50)
+1836.588 (6) 1441039970: this backup set remains non-empty (0/1); will retain in history
+1836.590 (6) Examining backup set with datestamp: 1441039955 (Aug 31 2015 16:52:35)
+1836.592 (6) 1441039955: db: this set includes a database (backup_2015-08-31-1652_Paula_Schuler_d879d2668be1-db.gz); db count is now 3
+1836.594 (6) 1441039955: db: over retain limit (2); will delete this database
+1836.597 (6) This backup set (1441039955) is the backup set just made, so will not be deleted.
+1836.600 (6) 1441039955: this backup set remains non-empty (0/1); will retain in history
+1836.603 (6) Retain: saving new backup history (sets now: 4) and finishing retain operation
+1836.613 (6) Resume backup (d879d2668be1, 6): finish run
+1836.620 (6) There were errors in the uploads, so the 'resume' event is remaining scheduled
+1836.624 (6) The backup has not finished; a resumption is scheduled
+2136.585 (7) Opened log file at time: Mon, 31 Aug 2015 17:28:12 +0000 on http://wordpress.dev
+2136.631 (7) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.11.5 WP: 4.3 PHP: 5.5.9-1ubuntu4.7 () MySQL: 5.5.41 Server: nginx/1.4.6 safe_mode: 0 max_execution_time: 30 memory_limit: 256M (used: 2.2M | 2.5M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+2136.634 (7) Free space on disk containing Updraft's temporary directory: 389552 Mb
+2136.642 (7) Backup run: resumption=7, nonce=d879d2668be1, begun at=1441039955 (2137s ago), job type=backup
+2136.646 (7) Scheduling a resumption (8) after 300 seconds (1441042392) in case this run gets aborted
+2136.653 (7) This backup run is not intended for files - skipping
+2136.655 (7) Database dump (WordPress DB): Creation was completed already
+2136.659 (7) Saving backup history
+2136.674 (7) backup_2015-08-31-1652_Paula_Schuler_d879d2668be1-db.gz: db: This file has not yet been successfully uploaded: will queue
+2136.680 (7) Requesting upload of the files that have not yet been successfully uploaded (1)
+2136.685 (7) Cloud backup selection (1/1): dropbox (last)
+2136.688 (7) Beginning dispatch of backup to remote (dropbox)
+2136.691 (7) Dropbox: begin cloud upload
+2136.693 (7) You do not appear to be authenticated with Dropbox
+2136.695 (7) An error condition has occurred for the first time during this job
+2136.705 (7) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+2136.708 (7) Number of backup sets in history: 4
+2136.711 (7) Examining backup set with datestamp: 1441041577 (Aug 31 2015 17:19:37)
+2136.714 (7) 1441041577: this backup set remains non-empty (1/0); will retain in history
+2136.716 (7) Examining backup set with datestamp: 1441040731 (Aug 31 2015 17:05:31)
+2136.718 (7) 1441040731: this backup set remains non-empty (1/1); will retain in history
+2136.720 (7) Examining backup set with datestamp: 1441039970 (Aug 31 2015 16:52:50)
+2136.722 (7) 1441039970: this backup set remains non-empty (0/1); will retain in history
+2136.725 (7) Examining backup set with datestamp: 1441039955 (Aug 31 2015 16:52:35)
+2136.731 (7) 1441039955: db: this set includes a database (backup_2015-08-31-1652_Paula_Schuler_d879d2668be1-db.gz); db count is now 3
+2136.735 (7) 1441039955: db: over retain limit (2); will delete this database
+2136.738 (7) This backup set (1441039955) is the backup set just made, so will not be deleted.
+2136.740 (7) 1441039955: this backup set remains non-empty (0/1); will retain in history
+2136.742 (7) Retain: saving new backup history (sets now: 4) and finishing retain operation
+2136.748 (7) Resume backup (d879d2668be1, 7): finish run
+2136.752 (7) There were errors in the uploads, so the 'resume' event is remaining scheduled
+2136.760 (7) The backup has not finished; a resumption is scheduled
+2444.519 (8) Opened log file at time: Mon, 31 Aug 2015 17:33:20 +0000 on http://wordpress.dev
+2444.523 (8) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.11.5 WP: 4.3 PHP: 5.5.9-1ubuntu4.7 () MySQL: 5.5.41 Server: nginx/1.4.6 safe_mode: 0 max_execution_time: 30 memory_limit: 256M (used: 2.2M | 2.5M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+2444.526 (8) Free space on disk containing Updraft's temporary directory: 389368.7 Mb
+2444.531 (8) Backup run: resumption=8, nonce=d879d2668be1, begun at=1441039955 (2445s ago), job type=backup
+2444.535 (8) Scheduling a resumption (9) after 300 seconds (1441042700) in case this run gets aborted
+2444.542 (8) This backup run is not intended for files - skipping
+2444.544 (8) Database dump (WordPress DB): Creation was completed already
+2444.547 (8) Saving backup history
+2444.557 (8) backup_2015-08-31-1652_Paula_Schuler_d879d2668be1-db.gz: db: This file has not yet been successfully uploaded: will queue
+2444.563 (8) Requesting upload of the files that have not yet been successfully uploaded (1)
+2444.568 (8) Cloud backup selection (1/1): dropbox (last)
+2444.572 (8) Beginning dispatch of backup to remote (dropbox)
+2444.575 (8) Dropbox: begin cloud upload
+2444.577 (8) You do not appear to be authenticated with Dropbox
+2444.579 (8) An error condition has occurred for the first time during this job
+2444.584 (8) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+2444.587 (8) Number of backup sets in history: 4
+2444.591 (8) Examining backup set with datestamp: 1441041577 (Aug 31 2015 17:19:37)
+2444.593 (8) 1441041577: this backup set remains non-empty (1/0); will retain in history
+2444.595 (8) Examining backup set with datestamp: 1441040731 (Aug 31 2015 17:05:31)
+2444.597 (8) 1441040731: this backup set remains non-empty (1/1); will retain in history
+2444.599 (8) Examining backup set with datestamp: 1441039970 (Aug 31 2015 16:52:50)
+2444.602 (8) 1441039970: this backup set remains non-empty (0/1); will retain in history
+2444.603 (8) Examining backup set with datestamp: 1441039955 (Aug 31 2015 16:52:35)
+2444.606 (8) 1441039955: db: this set includes a database (backup_2015-08-31-1652_Paula_Schuler_d879d2668be1-db.gz); db count is now 3
+2444.607 (8) 1441039955: db: over retain limit (2); will delete this database
+2444.609 (8) This backup set (1441039955) is the backup set just made, so will not be deleted.
+2444.612 (8) 1441039955: this backup set remains non-empty (0/1); will retain in history
+2444.614 (8) Retain: saving new backup history (sets now: 4) and finishing retain operation
+2444.618 (8) Resume backup (d879d2668be1, 8): finish run
+2444.623 (8) There were errors in the uploads, so the 'resume' event is remaining scheduled
+2444.628 (8) The backup has not finished; a resumption is scheduled
+2785.448 (9) Opened log file at time: Mon, 31 Aug 2015 17:39:01 +0000 on http://wordpress.dev
+2785.451 (9) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.11.5 WP: 4.3 PHP: 5.5.9-1ubuntu4.7 () MySQL: 5.5.41 Server: nginx/1.4.6 safe_mode: 0 max_execution_time: 30 memory_limit: 256M (used: 2.3M | 2.5M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+2785.454 (9) Free space on disk containing Updraft's temporary directory: 389358.7 Mb
+2785.458 (9) Backup run: resumption=9, nonce=d879d2668be1, begun at=1441039955 (2786s ago), job type=backup
+2785.463 (9) The current run is resumption number 9, and there was nothing useful done on the last run (last useful run: 0) - will not schedule a further attempt until we see something useful happening this time
+2785.466 (9) This backup run is not intended for files - skipping
+2785.469 (9) Database dump (WordPress DB): Creation was completed already
+2785.472 (9) Saving backup history
+2785.484 (9) backup_2015-08-31-1652_Paula_Schuler_d879d2668be1-db.gz: db: This file has not yet been successfully uploaded: will queue
+2785.490 (9) Requesting upload of the files that have not yet been successfully uploaded (1)
+2785.494 (9) Cloud backup selection (1/1): dropbox (last)
+2785.497 (9) Beginning dispatch of backup to remote (dropbox)
+2785.499 (9) Dropbox: begin cloud upload
+2785.502 (9) You do not appear to be authenticated with Dropbox
+2785.504 (9) An error condition has occurred for the first time during this job
+2785.509 (9) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+2785.512 (9) Number of backup sets in history: 4
+2785.515 (9) Examining backup set with datestamp: 1441041577 (Aug 31 2015 17:19:37)
+2785.517 (9) 1441041577: this backup set remains non-empty (1/0); will retain in history
+2785.519 (9) Examining backup set with datestamp: 1441040731 (Aug 31 2015 17:05:31)
+2785.522 (9) 1441040731: this backup set remains non-empty (1/1); will retain in history
+2785.524 (9) Examining backup set with datestamp: 1441039970 (Aug 31 2015 16:52:50)
+2785.526 (9) 1441039970: this backup set remains non-empty (0/1); will retain in history
+2785.529 (9) Examining backup set with datestamp: 1441039955 (Aug 31 2015 16:52:35)
+2785.531 (9) 1441039955: db: this set includes a database (backup_2015-08-31-1652_Paula_Schuler_d879d2668be1-db.gz); db count is now 3
+2785.533 (9) 1441039955: db: over retain limit (2); will delete this database
+2785.535 (9) This backup set (1441039955) is the backup set just made, so will not be deleted.
+2785.537 (9) 1441039955: this backup set remains non-empty (0/1); will retain in history
+2785.539 (9) Retain: saving new backup history (sets now: 4) and finishing retain operation
+2785.545 (9) Resume backup (d879d2668be1, 9): finish run
+2785.548 (9) There were errors in the uploads, so the 'resume' event is remaining scheduled
+2785.555 (9) Fetching RSS news feed
+2785.613 (9) Fetched RSS news feed; result is a: SimplePie
+2785.660 (9) Sending email ('Database only (files were not part of this particular schedule)') report (attachments: 1, size: 30.5 Kb) to: paula...
+2785.748 (9) The backup attempt has finished, apparently unsuccessfully

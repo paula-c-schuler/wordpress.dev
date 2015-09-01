@@ -1,0 +1,130 @@
+0000.003 (0) Opened log file at time: Mon, 31 Aug 2015 17:19:37 +0000 on http://wordpress.dev
+0000.006 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.11.5 WP: 4.3 PHP: 5.5.9-1ubuntu4.7 () MySQL: 5.5.41 Server: nginx/1.4.6 safe_mode: 0 max_execution_time: 30 memory_limit: 256M (used: 2.2M | 2.5M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+0000.009 (0) Free space on disk containing Updraft's temporary directory: 389844.7 Mb
+0000.017 (0) Tasks: Backup files: 1 (schedule: monthly) Backup DB:  (schedule: manual)
+0000.020 (0) Processed schedules. Tasks now: Backup files: 1 Backup DB: 
+0000.030 (0) Requesting semaphore lock (f)
+0000.034 (0) Set semaphore last lock (f) time to 2015-08-31 17:19:37
+0000.036 (0) Semaphore lock (f) complete
+0000.047 (0) Backup run: resumption=0, nonce=f31756d856aa, begun at=1441041577 (0s ago), job type=backup
+0000.051 (0) Scheduling a resumption (1) after 300 seconds (1441041877) in case this run gets aborted
+0000.057 (0) Checking if we have a zip executable available
+0000.062 (0) Creation of backups of directories: beginning
+0000.073 (0) Beginning creation of dump of plugins (split every: 500 Mb)
+0002.889 (0) Total entities for the zip file: 172 directories, 1040 files (0 skipped as non-modified), 16.3 Mb
+0002.898 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 Mb, 1 (1) files added so far); re-opening (prior size: 0 Kb)
+0003.036 (0) Zip: backup_2015-08-31-1719_Paula_Schuler_f31756d856aa-plugins.zip.tmp: 100 files added (on-disk size: 29 Kb)
+0003.128 (0) Zip: backup_2015-08-31-1719_Paula_Schuler_f31756d856aa-plugins.zip.tmp: 200 files added (on-disk size: 29 Kb)
+0003.262 (0) Zip: backup_2015-08-31-1719_Paula_Schuler_f31756d856aa-plugins.zip.tmp: 300 files added (on-disk size: 29 Kb)
+0003.380 (0) Zip: backup_2015-08-31-1719_Paula_Schuler_f31756d856aa-plugins.zip.tmp: 400 files added (on-disk size: 29 Kb)
+0003.497 (0) Zip: backup_2015-08-31-1719_Paula_Schuler_f31756d856aa-plugins.zip.tmp: 500 files added (on-disk size: 29 Kb)
+0003.502 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (14.1 Mb, 1040 files batched, 501 (502) added so far); re-opening (prior size: 29 Kb)
+0005.171 (0) Zip: backup_2015-08-31-1719_Paula_Schuler_f31756d856aa-plugins.zip.tmp: 600 files added (on-disk size: 4336.4 Kb)
+0005.301 (0) Zip: backup_2015-08-31-1719_Paula_Schuler_f31756d856aa-plugins.zip.tmp: 700 files added (on-disk size: 4336.4 Kb)
+0005.431 (0) Zip: backup_2015-08-31-1719_Paula_Schuler_f31756d856aa-plugins.zip.tmp: 800 files added (on-disk size: 4336.4 Kb)
+0005.555 (0) Zip: backup_2015-08-31-1719_Paula_Schuler_f31756d856aa-plugins.zip.tmp: 900 files added (on-disk size: 4336.4 Kb)
+0005.684 (0) Zip: backup_2015-08-31-1719_Paula_Schuler_f31756d856aa-plugins.zip.tmp: 1000 files added (on-disk size: 4336.4 Kb)
+0005.690 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (1.8 Mb, 1040 files batched, 501 (1003) added so far); re-opening (prior size: 4336.4 Kb)
+0006.945 (0) Created plugins zip (0) - 5230.2 Kb in 6.9 s (762.4 Kb/s) (SHA1 checksum: ff83553ad4857d9f1788cd549ef5dd04f4801581)
+0006.957 (0) Beginning creation of dump of themes (split every: 500 Mb)
+0007.159 (0) Total entities for the zip file: 24 directories, 148 files (0 skipped as non-modified), 2.4 Mb
+0007.247 (0) Zip: backup_2015-08-31-1719_Paula_Schuler_f31756d856aa-themes.zip.tmp: 100 files added (on-disk size: 0 Kb)
+0007.574 (0) Created themes zip (0) - 1307 Kb in 0.6 s (2157 Kb/s) (SHA1 checksum: c1e86e3d39def475edb36bac2a6800c869909bf2)
+0007.588 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone
+0007.592 (0) Looking for candidates to back up in: /vagrant/sites/wordpress.dev/public/wp-content/uploads
+0007.595 (0) finding files: 2015: adding to list (1)
+0007.598 (0) Beginning creation of dump of uploads (split every: 500 Mb)
+0007.619 (0) Total entities for the zip file: 3 directories, 0 files (0 skipped as non-modified), 0 Mb
+0007.632 (0) Created uploads zip (0) - 0.3 Kb in 0 s (15.2 Kb/s) (SHA1 checksum: 214b68084dfc405facc9f6c2a380d338ff0117c2)
+0007.646 (0) Beginning backup of other directories found in the content directory (index: 0)
+0007.648 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups
+0007.652 (0) Looking for candidates to back up in: /vagrant/sites/wordpress.dev/public/wp-content
+0007.655 (0) finding files: .DS_Store: adding to list (1)
+0007.657 (0) finding files: plugins: skipping: this is the plugins directory
+0007.659 (0) finding files: themes: skipping: this is the themes directory
+0007.661 (0) finding files: updraft: skipping: this is the updraft directory
+0007.663 (0) finding files: upgrade: skipping: excluded by options
+0007.665 (0) finding files: uploads: skipping: this is the uploads directory
+0007.683 (0) Total entities for the zip file: 0 directories, 1 files (0 skipped as non-modified), 0 Mb
+0007.698 (0) Created others zip (0) - 0.3 Kb in 0 s (13.4 Kb/s) (SHA1 checksum: eff60d17cb2a8335c4e9fc633d4318461db8b692)
+0007.715 (0) Saving backup status to database (elements: 8)
+0007.720 (0) No database backup (wp) - not part of this run
+0007.722 (0) Saving backup history
+0007.727 (0) backup_2015-08-31-1719_Paula_Schuler_f31756d856aa-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0007.729 (0) backup_2015-08-31-1719_Paula_Schuler_f31756d856aa-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0007.731 (0) backup_2015-08-31-1719_Paula_Schuler_f31756d856aa-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0007.734 (0) backup_2015-08-31-1719_Paula_Schuler_f31756d856aa-others.zip: others: This file has not yet been successfully uploaded: will queue
+0007.743 (0) Requesting upload of the files that have not yet been successfully uploaded (4)
+0007.753 (0) Cloud backup selection (1/1): dropbox (last)
+0007.755 (0) Beginning dispatch of backup to remote (dropbox)
+0007.758 (0) Dropbox: begin cloud upload
+0007.763 (0) Dropbox: access gained
+0008.347 (0) Dropbox quota usage: normal=20945.1 Mb, shared=0.6 Mb, total=22784 Mb, available=1838.3 Mb
+0008.351 (0) Dropbox: Attempt to upload: backup_2015-08-31-1719_Paula_Schuler_f31756d856aa-plugins.zip to: backup_2015-08-31-1719_Paula_Schuler_f31756d856aa-plugins.zip
+0010.423 (0) Dropbox chunked upload: 19.6 % uploaded (k06M_4E7_80kNZCSQPhJSw, 1048576)
+0012.264 (0) Dropbox chunked upload: 39.2 % uploaded (k06M_4E7_80kNZCSQPhJSw, 2097152)
+0015.338 (0) Dropbox chunked upload: 58.7 % uploaded (k06M_4E7_80kNZCSQPhJSw, 3145728)
+0018.106 (0) Dropbox chunked upload: 78.3 % uploaded (k06M_4E7_80kNZCSQPhJSw, 4194304)
+0021.281 (0) Dropbox chunked upload: 97.9 % uploaded (k06M_4E7_80kNZCSQPhJSw, 5242880)
+0022.715 (0) Dropbox chunked upload: 100 % uploaded (k06M_4E7_80kNZCSQPhJSw, 5355720)
+0024.442 (0) Recording as successfully uploaded: backup_2015-08-31-1719_Paula_Schuler_f31756d856aa-plugins.zip (a8933887308f477ac54e086274e87370)
+0024.455 (0) Deleting local file: backup_2015-08-31-1719_Paula_Schuler_f31756d856aa-plugins.zip: skipped: user has unchecked updraft_delete_local option
+0024.458 (0) Dropbox: File upload success (backup_2015-08-31-1719_Paula_Schuler_f31756d856aa-plugins.zip): 5230 Kb in 16s (324 Kb/s)
+0024.936 (0) Dropbox quota usage: normal=20950.2 Mb, shared=0.6 Mb, total=22784 Mb, available=1833.2 Mb
+0024.940 (0) Dropbox: Attempt to upload: backup_2015-08-31-1719_Paula_Schuler_f31756d856aa-themes.zip to: backup_2015-08-31-1719_Paula_Schuler_f31756d856aa-themes.zip
+0026.735 (0) Dropbox chunked upload: 78.3 % uploaded (myDWo5IjabkIhN_4XK_ntQ, 1048576)
+0028.272 (0) Dropbox chunked upload: 100 % uploaded (myDWo5IjabkIhN_4XK_ntQ, 1338386)
+0029.984 (0) Recording as successfully uploaded: backup_2015-08-31-1719_Paula_Schuler_f31756d856aa-themes.zip (61a4c57a0da0dd4dc0a1416cf4e0e3bf)
+0030.003 (0) Deleting local file: backup_2015-08-31-1719_Paula_Schuler_f31756d856aa-themes.zip: skipped: user has unchecked updraft_delete_local option
+0030.005 (0) Dropbox: File upload success (backup_2015-08-31-1719_Paula_Schuler_f31756d856aa-themes.zip): 1307 Kb in 5s (258 Kb/s)
+0030.478 (0) Dropbox quota usage: normal=20951.5 Mb, shared=0.6 Mb, total=22784 Mb, available=1831.9 Mb
+0030.482 (0) Dropbox: Attempt to upload: backup_2015-08-31-1719_Paula_Schuler_f31756d856aa-uploads.zip to: backup_2015-08-31-1719_Paula_Schuler_f31756d856aa-uploads.zip
+0031.530 (0) Dropbox chunked upload: 100 % uploaded (kyE2ni34LvJE14qvxwxP1g, 340)
+0032.648 (0) Recording as successfully uploaded: backup_2015-08-31-1719_Paula_Schuler_f31756d856aa-uploads.zip (54cfc97cf289ee38e7c7272d33d80078)
+0032.658 (0) Deleting local file: backup_2015-08-31-1719_Paula_Schuler_f31756d856aa-uploads.zip: skipped: user has unchecked updraft_delete_local option
+0032.661 (0) Dropbox: File upload success (backup_2015-08-31-1719_Paula_Schuler_f31756d856aa-uploads.zip): 0 Kb in 2s (0 Kb/s)
+0033.670 (0) Dropbox quota usage: normal=20951.5 Mb, shared=0.6 Mb, total=22784 Mb, available=1831.9 Mb
+0033.674 (0) Dropbox: Attempt to upload: backup_2015-08-31-1719_Paula_Schuler_f31756d856aa-others.zip to: backup_2015-08-31-1719_Paula_Schuler_f31756d856aa-others.zip
+0035.195 (0) Dropbox chunked upload: 100 % uploaded (xRoIzwXrXM0Kq6Bc0P_Vlg, 286)
+0036.983 (0) Recording as successfully uploaded: backup_2015-08-31-1719_Paula_Schuler_f31756d856aa-others.zip (dfbd3f9738928f3606778a886c6539d2)
+0036.992 (0) Deleting local file: backup_2015-08-31-1719_Paula_Schuler_f31756d856aa-others.zip: skipped: user has unchecked updraft_delete_local option
+0036.996 (0) Dropbox: File upload success (backup_2015-08-31-1719_Paula_Schuler_f31756d856aa-others.zip): 0 Kb in 3s (0 Kb/s)
+0037.005 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0037.008 (0) Number of backup sets in history: 4
+0037.013 (0) Examining backup set with datestamp: 1441041577 (Aug 31 2015 17:19:37)
+0037.018 (0) 1441041577: this backup set remains non-empty (1/0); will retain in history
+0037.020 (0) Examining backup set with datestamp: 1441040731 (Aug 31 2015 17:05:31)
+0037.022 (0) 1441040731: this backup set remains non-empty (1/1); will retain in history
+0037.024 (0) Examining backup set with datestamp: 1441039970 (Aug 31 2015 16:52:50)
+0037.030 (0) plugins: 1441039970: over retain limit (2); will delete this file (backup_2015-08-31-1652_Paula_Schuler_45f436eda05b-plugins.zip)
+0037.033 (0) themes: 1441039970: over retain limit (2); will delete this file (backup_2015-08-31-1652_Paula_Schuler_45f436eda05b-themes.zip)
+0037.036 (0) uploads: 1441039970: over retain limit (2); will delete this file (backup_2015-08-31-1652_Paula_Schuler_45f436eda05b-uploads.zip)
+0037.038 (0) others: 1441039970: over retain limit (2); will delete this file (backup_2015-08-31-1652_Paula_Schuler_45f436eda05b-others.zip)
+0037.040 (0) Delete file: backup_2015-08-31-1652_Paula_Schuler_45f436eda05b-plugins.zip, service=dropbox
+0037.043 (0) Deleting local copy (backup_2015-08-31-1652_Paula_Schuler_45f436eda05b-plugins.zip)
+0037.048 (0) Delete file: backup_2015-08-31-1652_Paula_Schuler_45f436eda05b-themes.zip, service=dropbox
+0037.053 (0) Deleting local copy (backup_2015-08-31-1652_Paula_Schuler_45f436eda05b-themes.zip)
+0037.057 (0) Delete file: backup_2015-08-31-1652_Paula_Schuler_45f436eda05b-uploads.zip, service=dropbox
+0037.059 (0) Deleting local copy (backup_2015-08-31-1652_Paula_Schuler_45f436eda05b-uploads.zip)
+0037.063 (0) Delete file: backup_2015-08-31-1652_Paula_Schuler_45f436eda05b-others.zip, service=dropbox
+0037.067 (0) Deleting local copy (backup_2015-08-31-1652_Paula_Schuler_45f436eda05b-others.zip)
+0037.070 (0) Dropbox: request deletion: backup_2015-08-31-1652_Paula_Schuler_45f436eda05b-plugins.zip
+0037.674 (0) Dropbox error: Path '/backup_2015-08-31-1652_paula_schuler_45f436eda05b-plugins.zip' not found (line: 171, file: /vagrant/sites/wordpress.dev/public/wp-content/plugins/updraftplus/includes/Dropbox/OAuth/Consumer/Curl.php)
+0037.681 (0) 1441039970: this backup set remains non-empty (0/1); will retain in history
+0037.684 (0) Examining backup set with datestamp: 1441039955 (Aug 31 2015 16:52:35)
+0037.687 (0) 1441039955: db: this set includes a database (backup_2015-08-31-1652_Paula_Schuler_45f436eda05b-db.gz); db count is now 3
+0037.691 (0) 1441039955: db: over retain limit (2); will delete this database
+0037.693 (0) Delete file: backup_2015-08-31-1652_Paula_Schuler_45f436eda05b-db.gz, service=dropbox
+0037.696 (0) Dropbox: request deletion: backup_2015-08-31-1652_Paula_Schuler_45f436eda05b-db.gz
+0038.225 (0) Dropbox error: Path '/backup_2015-08-31-1652_paula_schuler_45f436eda05b-db.gz' not found (line: 171, file: /vagrant/sites/wordpress.dev/public/wp-content/plugins/updraftplus/includes/Dropbox/OAuth/Consumer/Curl.php)
+0038.231 (0) 1441039955: this backup set is now empty; will remove from history
+0038.308 (0) 1441039955: deleting log file (log.45f436eda05b.txt)
+0038.314 (0) Retain: saving new backup history (sets now: 3) and finishing retain operation
+0038.323 (0) Resume backup (f31756d856aa, 0): finish run
+0038.333 (0) Decremented the semaphore (f) by 1
+0038.336 (0) Semaphore (f) unlocked
+0038.338 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0038.354 (0) Fetching RSS news feed
+0038.386 (0) Fetched RSS news feed; result is a: SimplePie
+0038.397 (0) Sending email ('Files only (database was not part of this particular schedule) (Full backup)') report (attachments: 0, size: 0 Kb) to: paula...
+0038.519 (0) The backup apparently succeeded and is now complete
